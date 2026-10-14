@@ -1,0 +1,115 @@
+{
+  "event_id": "evt_01M4VXGDSR78D2DPTDYH4WT6BY",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Nehemiah 10",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Keil 1873 on Neh 10 (local OCR)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Batten 1913 on Neh 10 (local OCR)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": false,
+      "not_applicable_reason": "No archaeological evidence bears on these events in the sources read."
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4VXGDSWFPBMY5V13E0Z4ZYA",
+      "statement": "The sealed covenant of Neh 10 belongs to the assembly of 24 Tishri in Nehemiah's first governorship.",
+      "layer": "reconstruction",
+      "passage": "Neh.9.38-Neh.10.39",
+      "classification": "disputed",
+      "reasoning": "Keil treats chs. 8–10 as one connected occasion closing with the sealing. Batten argues that four of the pledges (mixed marriages, Sabbath trade, the wood offering, tithes) are the reforms of Nehemiah's second administration (ch. 13), that the chapter is by a lay participant rather than Nehemiah or Ezra, and that it is a sequel to ch. 13 misplaced through its first-person-plural form. No external evidence decides it.",
+      "supporting_evidence": [
+        "evd_01M4VXGDSW13C5MJHNDFDY30ES"
+      ],
+      "counterevidence": [
+        "evd_01M4VXGDSWH239NZPTD9HYM3FJ"
+      ],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4VXGDSW13C5MJHNDFDY30ES",
+      "claim_ids": [
+        "clm_01M4VXGDSWFPBMY5V13E0Z4ZYA"
+      ],
+      "source_id": "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Chs. 8–10 form a connected whole; the covenant on the 24th.",
+      "locator": "Neh 8–10 introduction",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "keil-1873"
+    },
+    {
+      "id": "evd_01M4VXGDSWH239NZPTD9HYM3FJ",
+      "claim_ids": [
+        "clm_01M4VXGDSWFPBMY5V13E0Z4ZYA"
+      ],
+      "source_id": "src_01M4VEBZA1YXWXCK10PXS6Q74T",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "The fitting place is as a sequel to ch. 13.",
+      "locator": "Neh 10 introduction",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "batten-1913"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "The signatory lists were not compared with Neh 12 and Ezra 10."
+  ]
+}

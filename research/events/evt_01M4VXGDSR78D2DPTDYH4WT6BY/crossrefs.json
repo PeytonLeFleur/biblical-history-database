@@ -1,0 +1,173 @@
+{
+  "event_id": "evt_01M4VXGDSR78D2DPTDYH4WT6BY",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "wood offering",
+      "books_searched": 66,
+      "hits": [
+        "Neh.10.34",
+        "Neh.13.31"
+      ]
+    },
+    {
+      "name": "third part of a shekel",
+      "books_searched": 66,
+      "hits": [
+        "Neh.10.32"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4VXGDT4DZCYX9WF62HM080K",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VXGDSR78D2DPTDYH4WT6BY"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VXGDSRW21RS61EM9DEMY4M"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Sealed at the close of the confession (narrative sequence).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VXGDT4F66SJ25JC5AC6WWD",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VXGDSR78D2DPTDYH4WT6BY"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VR9YNQ4SCH3DT1MNWVVMJ6"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The marriage pledge (10:30) takes up Ezra 9–10.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VXGDT4HMHKN9QEJ7VW0YKN",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VXGDSR78D2DPTDYH4WT6BY"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VV9TG1AC5839ECZ78EK0CM"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Remission of debts in the seventh year (10:31) echoes Neh 5.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VXGDT41HAMFRY0ZZAHMRN7",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VXGDSR78D2DPTDYH4WT6BY"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Neh.13.10-Neh.13.31"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Nehemiah's second-term reforms deal with the same four matters (Batten).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VXGDT4PD7M2RJZEQDVYK1D",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VXGDSR78D2DPTDYH4WT6BY"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Exod.30.11-Exod.30.16"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The half-shekel for the service of the tent of meeting.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VXGDT405NE224AXY6QYKF9",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VXGDSR78D2DPTDYH4WT6BY"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Matt.17.24-Matt.17.27"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "The temple tax still collected in Jesus's day (Keil).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4VXGDST02V74YVBGQ5PPBDC",
+    "cst_01M4VXGDSTJQ0VZFNT2K02RV72"
+  ]
+}

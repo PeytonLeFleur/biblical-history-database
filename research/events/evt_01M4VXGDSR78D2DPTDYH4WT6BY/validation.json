@@ -1,0 +1,55 @@
+{
+  "event_id": "evt_01M4VXGDSR78D2DPTDYH4WT6BY",
+  "revision": 1,
+  "validated_at": "2026-10-14",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": false,
+      "details": [
+        "no competing reconstructions recorded (or not_applicable reason)"
+      ]
+    }
+  ],
+  "publication_level": "preliminary",
+  "open_reviews": [
+    "rev_01M4VXGDT1PYJY44VW4PMCC7Y6"
+  ],
+  "research_gaps": [
+    "The signatory lists were not compared with Neh 12 and Ezra 10."
+  ],
+  "disputes": [
+    "The sealed covenant of Neh 10 belongs to the assembly of 24 Tishri in Nehemiah's first governorship."
+  ],
+  "export_eligible": true
+}

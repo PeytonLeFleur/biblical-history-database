@@ -1,0 +1,917 @@
+# The fast of the twenty-fourth day and the Levites' confession (Neh 9)
+
+> **Status:** Researched — not human reviewed · research status `publishable` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Nehemiah 9:1–37 (narration)
+
+## Biblical account
+
+On the twenty-fourth of the month Israel assembled with fasting, sackcloth and earth on their heads, separated from all foreigners, and confessed their sins and their fathers'. For a quarter of the day they read the law and for a quarter confessed and worshipped. Levites on the platform cried to God and led a prayer: God made heaven and earth, chose Abraham, saw the affliction in Egypt, divided the sea, gave the law at Sinai, fed them in the wilderness, gave them Canaan; they rebelled, killed the prophets and were given to their enemies, yet God in mercy did not make an end of them. Now they are servants in their own land, whose produce goes to the kings set over them.
+
+## Historical setting
+
+**Period:** 24 Tishri — 30 October 445 BC on the narrative-sequence reading
+
+Keil dates the fast two days after the eighth-day assembly of Booths (22 Tishri). The date depends on the disputed setting of Neh 8. [1]
+
+### Rulers
+
+- Artaxerxes I (Longimanus): King of Persia
+
+## Date and chronology
+
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *model-independent*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+- **446 BC – 444 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: regnal_year
+  - Earliest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+  - Latest bound from: cst_01M4VW9ER7R45W17HW6SC5S2FY|cst_01M4VW9ER7R45W17HW6SC5S2FY#own-convention → “in the twenty-fourth day of this month”
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “in the twenty-fourth day of this month” (Nehemiah 9:1) → `days_later` Ezra reads the Law on the first day of the seventh month (Neh 7:73b–8:12); assumptions: "This month" is the seventh month of Neh 8:2 (Keil): 24 Tishri, two days after the eighth-day assembly.
+- “in the twenty-fourth day of this month” (Nehemiah 9:1) → `after` The Feast of Booths kept "as it is written" (Neh 8:13–18)
+
+## Geography
+
+- Jerusalem (Jerusalem; confidence: certain)
+  - Pleiades representative point: certain [2]
+
+## Competing reconstructions
+
+- **Part of the Ezra–Nehemiah assembly of Tishri** (C. F. Keil (1873)): Chapters 8–10 form one connected whole. [1]
+- **An independent account of a fast day** (L. W. Batten (1913)): No evidence of Ezra's presence (the Greek "and Ezra said" is a late interpolation); the link to ch. 8 may be the Chronicler's. [3]
+
+## Claims and evidence
+
+### The prayer's complaint that foreign kings take the land's produce (9:36–37) reflects Persian tribute on Judah.
+
+**Classification:** Historically plausible (machine proposed) · layer: reconstruction
+
+Keil reads the "kings" as the Persian monarchs; the "king's tribute" of Neh 5:4 and the tribute named in Ezra 4:13 and 7:24 point the same way. No Persian administrative document on Judah's tribute was read.
+
+- *Supporting (indirect):* Bondmen of the Persian monarchs, who take the increase. (on 9:36–37) [1]
+
+*Limitations:* Inference from biblical texts only.
+
+## Related passages and events
+
+- this event → **preceded by** → The Feast of Booths kept "as it is written" (Neh 8:13–18) (high): Two days after the feast.
+- this event → **followed by** → The sealed covenant to keep the law and support the temple (Neh 9:38–10:39) (high): The prayer ends in the written agreement (9:38).
+- this event → **thematic parallel** → Psalms 106:1–48 (high): Keil: the confession resembles Psalm 106 in plan and detail.
+- this event → **thematic parallel** → Ezra 9:6–15 (medium): Ezra's confession: "you are righteous" and present bondage.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik reads the prayer as tracing a repeated cycle of blessing, pride, discipline and return, met each time by God's readiness to pardon. [4]
+
+## Unanswered questions and research gaps
+
+- Persian tribute records for Yehud not researched.
+
+## Sources
+
+1. Keil, C. F., Taylor, Sophia (trans.). Biblical Commentary on the Books of Ezra, Nehemiah, and Esther (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1873. <https://archive.org/details/booksofezranehem00keil> — *scholarly commentary; verification: claim checked*
+2. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
+3. Batten, Loring W.. A Critical and Exegetical Commentary on the Books of Ezra and Nehemiah (International Critical Commentary). T. & T. Clark / Scribner, 1913. <https://archive.org/details/criticalexegetic00battuoft> — *scholarly commentary; verification: claim checked*
+4. Guzik, David. Nehemiah 9 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/nehemiah-9/> — *theological commentary; verification: claim checked*

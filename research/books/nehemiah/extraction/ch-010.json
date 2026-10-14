@@ -1,0 +1,364 @@
+{
+  "book": "Neh",
+  "chapter": 10,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Neh.10.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.18",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.19",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.20",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.21",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.22",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.23",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.24",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.25",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.26",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.27",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.28",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.29",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.30",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.31",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.32",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.33",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.34",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.35",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.36",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.37",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.38",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.10.39",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4VXGDSRB3SEEZ4J2YYHWN85",
+      "title": "The sealed covenant: signatories led by Nehemiah; oath to keep the law; pledges on marriage, Sabbath, the seventh year, the temple tax, wood, firstfruits and tithes",
+      "passage": "Neh.10.1-Neh.10.39",
+      "description": "Nehemiah the governor, priests, Levites and chiefs sealed; the people swore to walk in God's law, not to intermarry with the peoples of the land, not to buy on the Sabbath, to let the seventh year lie and remit debts, to give a third of a shekel yearly for the temple service, to cast lots for the wood offering, and to bring firstfruits, firstborn and tithes; \"we will not forsake the house of our God.\"",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious",
+        "legal",
+        "economic"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Nehemiah the governor, the son of Hacaliah",
+          "matched_entity_id": "per_01M4VS7B1CFQTEKVYD0TDWK1CB",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Exod.30.11-Exod.30.16",
+        "Deut.7.3",
+        "Exod.23.10-Exod.23.11",
+        "Deut.15.1-Deut.15.2",
+        "Num.18.21-Num.18.28",
+        "Neh.13.10-Neh.13.31",
+        "Matt.17.24-Matt.17.27"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "A third of a shekel against the half-shekel of Exod 30:13.",
+        "Whether the covenant belongs with the assembly of ch. 9 or after the reforms of ch. 13 (Batten)."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VXGDSR78D2DPTDYH4WT6BY"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-nehemiah-9-10.md"
+}
