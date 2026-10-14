@@ -1,0 +1,77 @@
+{
+  "event_id": "evt_01M4W8756Z217C4YN4XKQHA7C9",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "That night the king could not sleep and had the book of records read; it told how Mordecai exposed Bigthana and Teresh, and nothing had been done for him. Haman, arriving to ask for Mordecai's hanging, was asked what should be done for the man the king delighted to honour; thinking it himself, he proposed royal robes, the king's horse and a crown and a proclamation; the king ordered him to do so for Mordecai the Jew. Haman went home mourning; Zeresh and his wise men foretold his fall before Mordecai, and the eunuchs hurried him to the banquet.",
+    "passage": "Esth.6.1-Esth.6.14"
+  },
+  "setting": {
+    "period": "Spring 474 BC",
+    "body": "The night after the first banquet.",
+    "citations": [
+      "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V26XGRRNK70YK6ZWR2NB6W",
+      "reign_id": "rgn_01M4W50S9H597M5GWGYJWYY4SE",
+      "role": "King of Persia (Ahasuerus)",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4W87572QRTR05S8HAS19847",
+      "subject": "evt_01M4W8756Z217C4YN4XKQHA7C9",
+      "object": "evt_01M4W6JZE3KFNJZBY30B833JGF",
+      "relation": "days_later",
+      "textual_assertion": "On that night, the king couldn't sleep",
+      "passage": "Esth.6.1",
+      "offset": {
+        "min": 0,
+        "max": 1
+      },
+      "unit": "days",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "day",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4TTS0HF7XKVH1VBRM0K0TFS",
+      "role": "Susa",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [],
+  "commentary": [
+    {
+      "source_id": "src_01M4W87562M8MPV9C2VQCDF42W",
+      "layer": "interpretation",
+      "paraphrase": "Guzik sees no coincidences: Haman arrives just as the king wishes to honour Mordecai.",
+      "url": "https://enduringword.com/bible-commentary/esther-6/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}

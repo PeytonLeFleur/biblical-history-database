@@ -1,0 +1,69 @@
+{
+  "event_id": "evt_01M4W8756Z217C4YN4XKQHA7C9",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Harbonah/Harbona",
+      "books_searched": 66,
+      "hits": [
+        "Esth.1.10",
+        "Esth.7.9"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4W87575DT5D6B3PH4K37NH1",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W8756Z217C4YN4XKQHA7C9"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4W50SA60G01DQZ75H0QRSC5"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The recorded deed of 2:21–23 read to the king.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W87575PZ3XRAM72JRK4EA8",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W8756Z217C4YN4XKQHA7C9"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4W8756ZS9CS00Z1B72DZQT7"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Haman hurried to the banquet.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4W87572QRTR05S8HAS19847"
+  ]
+}

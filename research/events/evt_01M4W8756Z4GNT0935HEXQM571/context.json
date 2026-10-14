@@ -1,0 +1,85 @@
+{
+  "event_id": "evt_01M4W8756Z4GNT0935HEXQM571",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Mordecai recorded these things and wrote to all the Jews in the provinces to keep the 14th and 15th of Adar every year as days of feasting, gladness and gifts to the poor; the days were called Purim after pur, the lot Haman had cast. The Jews bound themselves and their descendants to keep them. Queen Esther and Mordecai wrote a second letter confirming Purim and its fasts. Ahasuerus laid tribute on the land and the islands; his acts and Mordecai's greatness are written in the chronicles of the kings of Media and Persia, Mordecai being second to the king.",
+    "passage": "Esth.9.20-Esth.10.3"
+  },
+  "setting": {
+    "period": "After 473 BC; observed in later centuries",
+    "body": "2 Maccabees 15:36 sets Nicanor's Day on 13 Adar, \"the day before the day of Mordecai\"; Josephus says the Jews still keep the days of Phurim.",
+    "citations": [
+      "src_01M4W8756ZA3AZ3P0623AF0WQM",
+      "src_01M4W8756TH65VFW5SZ5TC7BTG"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V26XGRRNK70YK6ZWR2NB6W",
+      "reign_id": "rgn_01M4W50S9H597M5GWGYJWYY4SE",
+      "role": "King of Persia (Ahasuerus)",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4W87572SHRS56CSWVVVCVM1",
+      "subject": "evt_01M4W8756Z4GNT0935HEXQM571",
+      "object": "evt_01M4W8756Z7H1W8SH568SVW1VX",
+      "relation": "after",
+      "textual_assertion": "Mordecai wrote these things",
+      "passage": "Esth.9.20",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4TTS0HF7XKVH1VBRM0K0TFS",
+      "role": "Susa",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "Purim (9:26)",
+      "gloss": "Plural of pur, \"lot\".",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    }
+  ],
+  "competing_reconstructions": [],
+  "commentary": [
+    {
+      "source_id": "src_01M4W8756PEV26F9EQQP6BXY11",
+      "layer": "interpretation",
+      "paraphrase": "Guzik, after Spurgeon, calls Esther a record of wonders without a miracle.",
+      "url": "https://enduringword.com/bible-commentary/esther-10/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "The \"chronicles of the kings of Media and Persia\" (10:2) are not extant."
+  ],
+  "not_applicable": {}
+}

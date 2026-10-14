@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4W8758DP2RJGGP6593E45YP",
+  "record_kind": "event",
+  "record_id": "evt_01M4W8756ZFKHA8W2QT3RD7WZ7",
+  "record_revision": 1,
+  "reason": "Critical-priority finding: Mordecai's counter-decree of 23 Sivan (Esth 8)",
+  "triggers": [
+    "critical_priority"
+  ],
+  "status": "open",
+  "created_at": "2026-10-14T03:45:09.901Z",
+  "decisions": [],
+  "is_fixture": false
+}

@@ -1,0 +1,111 @@
+{
+  "event_id": "evt_01M4W8756ZFKHA8W2QT3RD7WZ7",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "The king gave Esther Haman's house and Mordecai the signet ring; Esther begged that Haman's letters be reversed, but a decree sealed with the king's ring could not be revoked. On 23 Sivan the scribes wrote, as Mordecai commanded, to the satraps and governors of the 127 provinces in every script and language, allowing the Jews to gather and defend themselves and destroy any force that attacked them on 13 Adar; mounted couriers took the edict. Mordecai went out in royal robes; there was light and gladness among the Jews, and many of the peoples became Jews.",
+    "passage": "Esth.8.1-Esth.8.17"
+  },
+  "setting": {
+    "period": "23 Sivan, Xerxes year 12 — about 25 June 474 BC (Parker & Dubberstein)",
+    "body": "Two months and ten days after Haman's decree of 13 Nisan.",
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V26XGRRNK70YK6ZWR2NB6W",
+      "reign_id": "rgn_01M4W50S9H597M5GWGYJWYY4SE",
+      "role": "King of Persia (Ahasuerus)",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4W87572ZX3719BTKXA9332Z",
+      "subject": "evt_01M4W8756ZFKHA8W2QT3RD7WZ7",
+      "object": "rgn_01M4W50S9H597M5GWGYJWYY4SE",
+      "relation": "in_regnal_year",
+      "textual_assertion": "in the third month, which is the month Sivan, on the twenty-third day of the month",
+      "passage": "Esth.8.9",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 12,
+      "alternative_option": null,
+      "regnal_convention": {
+        "reckoning": "accession",
+        "new_year": "nisan"
+      },
+      "precision": "day",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "The same year as the decree of Nisan (3:7–12): Sivan of Xerxes's year 12 began 3 June 474 (Parker & Dubberstein), so 23 Sivan was about 25 June 474."
+      ],
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ],
+      "verification": "source_checked"
+    },
+    {
+      "id": "cst_01M4W875729C7J0HPWXN48AA48",
+      "subject": "evt_01M4W8756ZFKHA8W2QT3RD7WZ7",
+      "object": "evt_01M4W6JZE3ZQVDCV653K0ECY8H",
+      "relation": "months_later",
+      "textual_assertion": "13 Nisan (3:12) … 23 Sivan (8:9)",
+      "passage": "Esth.8.9",
+      "offset": {
+        "min": 2,
+        "max": 3
+      },
+      "unit": "months",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "month",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4TTS0HF7XKVH1VBRM0K0TFS",
+      "role": "Susa",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "irrevocable decree (8:8)",
+      "gloss": "A sealed royal decree could not be revoked (cf. Dan 6:8, 15).",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    }
+  ],
+  "competing_reconstructions": [],
+  "commentary": [
+    {
+      "source_id": "src_01M4W8756DEDN4H967GFHB2ZNV",
+      "layer": "interpretation",
+      "paraphrase": "Guzik reads the counter-decree as a picture of God satisfying his justice while saving his people.",
+      "url": "https://enduringword.com/bible-commentary/esther-8/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}

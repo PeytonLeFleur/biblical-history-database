@@ -1,0 +1,77 @@
+{
+  "event_id": "evt_01M4W8756ZS9CS00Z1B72DZQT7",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "At the second banquet the king again offered Esther up to half the kingdom; she asked for her life and her people's, who had been sold to be destroyed; when he asked who had done this, she named Haman. The king went into the garden in wrath; Haman stayed to beg Esther and was found fallen on her couch; Harbonah told of the gallows fifty cubits high made for Mordecai, and the king ordered Haman hanged on it.",
+    "passage": "Esth.7.1-Esth.7.10"
+  },
+  "setting": {
+    "period": "Spring 474 BC",
+    "body": "The day after the first banquet.",
+    "citations": [
+      "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V26XGRRNK70YK6ZWR2NB6W",
+      "reign_id": "rgn_01M4W50S9H597M5GWGYJWYY4SE",
+      "role": "King of Persia (Ahasuerus)",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4W87572A3NF8CCH618N0SPA",
+      "subject": "evt_01M4W8756ZS9CS00Z1B72DZQT7",
+      "object": "evt_01M4W8756Z217C4YN4XKQHA7C9",
+      "relation": "days_later",
+      "textual_assertion": "they hurried to bring Haman to the banquet",
+      "passage": "Esth.6.14-Esth.7.1",
+      "offset": {
+        "min": 0,
+        "max": 0
+      },
+      "unit": "days",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "day",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4TTS0HF7XKVH1VBRM0K0TFS",
+      "role": "Susa",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [],
+  "commentary": [
+    {
+      "source_id": "src_01M4W87568CD6Q2B9G0ATZ525J",
+      "layer": "interpretation",
+      "paraphrase": "Guzik notes the irony that the king had himself authorised the plot he now condemns.",
+      "url": "https://enduringword.com/bible-commentary/esther-7/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}

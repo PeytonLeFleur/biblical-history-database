@@ -1,0 +1,203 @@
+{
+  "book": "Esth",
+  "chapter": 8,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Esth.8.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZD21XWXNNFRDMMAGJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.8.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZD21XWXNNFRDMMAGJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.8.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZD21XWXNNFRDMMAGJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.8.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZD21XWXNNFRDMMAGJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.8.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZD21XWXNNFRDMMAGJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.8.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZD21XWXNNFRDMMAGJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.8.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZD21XWXNNFRDMMAGJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.8.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZD21XWXNNFRDMMAGJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.8.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZD21XWXNNFRDMMAGJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.8.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZD21XWXNNFRDMMAGJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.8.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZD21XWXNNFRDMMAGJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.8.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZD21XWXNNFRDMMAGJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.8.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZD21XWXNNFRDMMAGJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.8.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZD21XWXNNFRDMMAGJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.8.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZD21XWXNNFRDMMAGJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.8.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZD21XWXNNFRDMMAGJ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.8.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZD21XWXNNFRDMMAGJ"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4W8756ZD21XWXNNFRDMMAGJ",
+      "title": "Haman's house to Esther and his ring to Mordecai; the counter-decree written on 23 Sivan; joy, and many become Jews",
+      "passage": "Esth.8.1-Esth.8.17",
+      "description": "Esther received Haman's house and Mordecai the king's ring; since a sealed decree could not be revoked, on 23 Sivan letters were written in Mordecai's name allowing the Jews to assemble and defend themselves on 13 Adar; Mordecai went out in royal apparel; many of the peoples became Jews for fear of them.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "political",
+        "legal"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Mordecai",
+          "matched_entity_id": "per_01M4W50S9Z08YHEY3ZW19N32AD",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Queen Esther",
+          "matched_entity_id": "per_01M4W50S9RTTQN3RVR8N4C01C0",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "King Ahasuerus",
+          "matched_entity_id": "per_01M4V26XGRRNK70YK6ZWR2NB6W",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Shushan",
+          "matched_entity_id": "loc_01M4TTS0HF7XKVH1VBRM0K0TFS",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [
+        {
+          "ref": "Esth.8.9",
+          "phrase": "in the third month, which is the month Sivan, on the twenty-third day of the month",
+          "kind": "absolute"
+        }
+      ],
+      "related_passages": [
+        "Dan.6.8",
+        "Dan.6.15"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [
+        "The irrevocability of Persian law (8:8; cf. Dan 6) is asserted by the text."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4W8756ZFKHA8W2QT3RD7WZ7"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-esther-6-10.md"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "evt_01M4W8756ZS9CS00Z1B72DZQT7",
+  "slug": "second-banquet-and-haman-hanged-esth-7",
+  "title": "The second banquet; Haman hanged (Esth 7)",
+  "summary": "At the second banquet Esther revealed Haman's plot against her people; the enraged king had Haman hanged on the gallows he had prepared for Mordecai.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4W8756Z24C0Y80QX55T31VX"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "historical_narrative",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "political",
+    "legal"
+  ],
+  "priority": "high",
+  "research_status": "publishable",
+  "publication_level": "preliminary",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Esth.7.1-Esth.7.10",
+      "mention_type": "narration",
+      "notes": null
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "in_progress",
+      "updated": "2026-10-14",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

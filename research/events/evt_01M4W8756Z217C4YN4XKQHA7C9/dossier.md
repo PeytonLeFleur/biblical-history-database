@@ -1,0 +1,902 @@
+# The sleepless king; Mordecai honoured by Haman (Esth 6)
+
+> **Status:** Preliminary research · research status `publishable` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Esther 6:1–14 (narration)
+
+## Biblical account
+
+That night the king could not sleep and had the book of records read; it told how Mordecai exposed Bigthana and Teresh, and nothing had been done for him. Haman, arriving to ask for Mordecai's hanging, was asked what should be done for the man the king delighted to honour; thinking it himself, he proposed royal robes, the king's horse and a crown and a proclamation; the king ordered him to do so for Mordecai the Jew. Haman went home mourning; Zeresh and his wise men foretold his fall before Mordecai, and the eunuchs hurried him to the banquet.
+
+## Historical setting
+
+**Period:** Spring 474 BC
+
+The night after the first banquet. [1]
+
+### Rulers
+
+- Xerxes I: King of Persia (Ahasuerus) [1]
+
+## Date and chronology
+
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → cst_01M4W6JZE50XH1EG566BFR076G → “On that night, the king couldn't sleep”
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “On that night, the king couldn't sleep” (Esther 6:1) → `days_later` Esther before the king; the first banquet; Haman's gallows (Esth 5)
+
+## Geography
+
+- Susa (Shushan) (Susa; confidence: certain)
+  - Susa (Pleiades 912936): certain [2]
+
+## Claims and evidence
+
+### Mordecai was publicly honoured after the chronicles were read to the king.
+
+**Classification:** No independent corroboration found (machine proposed) · layer: evidence
+
+Known only from Esther and its retellings (Josephus follows the biblical story); no Persian or Greek source read mentions it.
+
+- *Context (indirect):* Mordecai was publicly honoured after the chronicles were read to the king. (Esth.6.1-Esth.6.11) [3]
+
+## Related passages and events
+
+- this event → **thematic parallel** → Mordecai uncovers the plot of Bigthan and Teresh (Esth 2:19–23) (high): The recorded deed of 2:21–23 read to the king.
+- this event → **followed by** → The second banquet; Haman hanged (Esth 7) (high): Haman hurried to the banquet.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik sees no coincidences: Haman arrives just as the king wishes to honour Mordecai. [3]
+
+## Sources
+
+1. Keil, C. F., Taylor, Sophia (trans.). Biblical Commentary on the Books of Ezra, Nehemiah, and Esther (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1873. <https://archive.org/details/booksofezranehem00keil> — *scholarly commentary; verification: claim checked*
+2. Pleiades contributors. Susa/Seleucia ad Eulaeum — Pleiades place 912936. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/912936> — *institutional database; verification: claim checked*
+3. Guzik, David. Esther 6 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/esther-6/> — *theological commentary; verification: claim checked*

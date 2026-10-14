@@ -1,0 +1,70 @@
+{
+  "book": "Esth",
+  "chapter": 10,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Esth.10.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZVKWYCFTTY1BT763M"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.10.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZVKWYCFTTY1BT763M"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.10.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZVKWYCFTTY1BT763M"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4W8756ZVKWYCFTTY1BT763M",
+      "title": "The king's tribute; Mordecai's greatness written in the chronicles of the kings of Media and Persia",
+      "passage": "Esth.10.1-Esth.10.3",
+      "description": "Ahasuerus laid tribute on the land and the islands; his acts and Mordecai's greatness are written in the book of the chronicles of the kings of Media and Persia; Mordecai was second to the king, seeking his people's good.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "political"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "King Ahasuerus",
+          "matched_entity_id": "per_01M4V26XGRRNK70YK6ZWR2NB6W",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Mordecai",
+          "matched_entity_id": "per_01M4W50S9Z08YHEY3ZW19N32AD",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [],
+      "research_priority": "medium",
+      "ambiguities": [
+        "The \"chronicles of the kings of Media and Persia\" are not extant."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4W8756Z4GNT0935HEXQM571"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-esther-6-10.md"
+}

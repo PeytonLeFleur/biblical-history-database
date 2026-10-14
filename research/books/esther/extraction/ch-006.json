@@ -1,0 +1,167 @@
+{
+  "book": "Esth",
+  "chapter": 6,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Esth.6.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z1DNW61KM6FC8TY0N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.6.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z1DNW61KM6FC8TY0N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.6.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z1DNW61KM6FC8TY0N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.6.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z1DNW61KM6FC8TY0N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.6.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z1DNW61KM6FC8TY0N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.6.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z1DNW61KM6FC8TY0N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.6.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z1DNW61KM6FC8TY0N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.6.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z1DNW61KM6FC8TY0N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.6.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z1DNW61KM6FC8TY0N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.6.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z1DNW61KM6FC8TY0N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.6.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z1DNW61KM6FC8TY0N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.6.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z1DNW61KM6FC8TY0N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.6.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z1DNW61KM6FC8TY0N"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.6.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z1DNW61KM6FC8TY0N"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4W8756Z1DNW61KM6FC8TY0N",
+      "title": "The sleepless king hears the chronicles; Mordecai honoured by Haman's own counsel",
+      "passage": "Esth.6.1-Esth.6.14",
+      "description": "That night the king could not sleep; the chronicles were read and Mordecai's unrewarded deed found; Haman, come to ask for Mordecai's death, proposed honours for \"the man whom the king delights to honour\" and was ordered to give them to Mordecai; Zeresh foresaw his fall; he was hurried to the banquet.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "political"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "the king",
+          "matched_entity_id": "per_01M4V26XGRRNK70YK6ZWR2NB6W",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Mordecai",
+          "matched_entity_id": "per_01M4W50S9Z08YHEY3ZW19N32AD",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Haman",
+          "matched_entity_id": "per_01M4W6JZE39Z7EMMFQG1S49PJQ",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Shushan",
+          "matched_entity_id": "loc_01M4TTS0HF7XKVH1VBRM0K0TFS",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [],
+      "related_passages": [],
+      "research_priority": "medium",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4W8756Z217C4YN4XKQHA7C9"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-esther-6-10.md"
+}

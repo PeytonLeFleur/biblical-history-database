@@ -1,0 +1,27 @@
+{
+  "id": "job_01M4W874601HE3M1WVNFR025ZB",
+  "subject_kind": "chapter",
+  "subject_id": "Esth.9",
+  "book": "Esth",
+  "chapter": 9,
+  "stage": "scripture_extraction",
+  "status": "published",
+  "priority": "medium",
+  "checkpoint": {
+    "note": "Rule 01 extraction complete",
+    "resume_from": null,
+    "files": []
+  },
+  "attempts": [
+    {
+      "stage": "scripture_extraction",
+      "started": "2026-10-14T03:45:12.034Z",
+      "ended": null,
+      "outcome": null,
+      "notes": null
+    }
+  ],
+  "created_at": "2026-10-14T03:45:08.800Z",
+  "updated_at": "2026-10-14T03:45:12.034Z",
+  "is_fixture": false
+}

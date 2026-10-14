@@ -1,0 +1,139 @@
+{
+  "book": "Esth",
+  "chapter": 7,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Esth.7.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z24C0Y80QX55T31VX"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.7.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z24C0Y80QX55T31VX"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.7.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z24C0Y80QX55T31VX"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.7.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z24C0Y80QX55T31VX"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.7.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z24C0Y80QX55T31VX"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.7.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z24C0Y80QX55T31VX"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.7.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z24C0Y80QX55T31VX"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.7.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z24C0Y80QX55T31VX"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.7.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z24C0Y80QX55T31VX"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.7.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z24C0Y80QX55T31VX"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4W8756Z24C0Y80QX55T31VX",
+      "title": "The second banquet: Esther names Haman; Haman hanged on the gallows he made for Mordecai",
+      "passage": "Esth.7.1-Esth.7.10",
+      "description": "At the second banquet Esther asked for her life and her people's and named Haman as the enemy; the king went out in anger and, returning, found Haman fallen on Esther's couch; Harbonah pointed to the gallows fifty cubits high, and Haman was hanged on it.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "political",
+        "legal"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Queen Esther",
+          "matched_entity_id": "per_01M4W50S9RTTQN3RVR8N4C01C0",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Haman",
+          "matched_entity_id": "per_01M4W6JZE39Z7EMMFQG1S49PJQ",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "King Ahasuerus",
+          "matched_entity_id": "per_01M4V26XGRRNK70YK6ZWR2NB6W",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Shushan",
+          "matched_entity_id": "loc_01M4TTS0HF7XKVH1VBRM0K0TFS",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [],
+      "related_passages": [
+        "Ps.7.15-Ps.7.16",
+        "Prov.26.27"
+      ],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4W8756ZS9CS00Z1B72DZQT7"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-esther-6-10.md"
+}
