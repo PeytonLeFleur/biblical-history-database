@@ -1,0 +1,179 @@
+{
+  "book": "Zech",
+  "chapter": 12,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Zech.12.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VA5RNXM8MH8KE4F7QT"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.12.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VA5RNXM8MH8KE4F7QT"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.12.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VA5RNXM8MH8KE4F7QT"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.12.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VA5RNXM8MH8KE4F7QT"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.12.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VA5RNXM8MH8KE4F7QT"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.12.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VA5RNXM8MH8KE4F7QT"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.12.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VA5RNXM8MH8KE4F7QT"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.12.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VA5RNXM8MH8KE4F7QT"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.12.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VA5RNXM8MH8KE4F7QT"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.12.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAY11MX2F4VWFQNR0S"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.12.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAY11MX2F4VWFQNR0S"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.12.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAY11MX2F4VWFQNR0S"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.12.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAY11MX2F4VWFQNR0S"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.12.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAY11MX2F4VWFQNR0S"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4W2B2VA5RNXM8MH8KE4F7QT",
+      "title": "Jerusalem a cup of reeling and a heavy stone; Judah's clans like fire; the feeble like David",
+      "passage": "Zech.12.1-Zech.12.9",
+      "description": "The nations besieging Jerusalem are confounded; Judah's leaders devour the peoples; the LORD defends Jerusalem.",
+      "record_type": "prophecy",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Isa.51.17-Isa.51.23",
+        "Joel.3.1-Joel.3.17"
+      ],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4W2B2VAZJFHAYRQ4AK6ZWEM"
+    },
+    {
+      "id": "cnd_01M4W2B2VAY11MX2F4VWFQNR0S",
+      "title": "A spirit of grace and supplication; \"me whom they have pierced\"; mourning like that of Hadad-rimmon in the valley of Megiddo",
+      "passage": "Zech.12.10-Zech.12.14",
+      "description": "They will look on the pierced one and mourn as for an only son; the mourning compared to Hadad-rimmon at Megiddo; each family mourning apart.",
+      "record_type": "prophecy",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [
+        {
+          "name_as_written": "the valley of Megiddo",
+          "matched_entity_id": "loc_01M4VCA09WYGCV57FHFGY7HH88",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [],
+      "related_passages": [
+        "John.19.37",
+        "Rev.1.7",
+        "2Chr.35.22-2Chr.35.25",
+        "Isa.53.5"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [
+        "\"Me\" (MT) or \"him\" (some manuscripts) in 12:10.",
+        "Hadad-rimmon: the mourning for Josiah (Targum, Jerome, Keil, Mitchell) or a deity (Hitzig; rejected by both)."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4W2B2VAZJFHAYRQ4AK6ZWEM"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-zechariah-12-14.md"
+}

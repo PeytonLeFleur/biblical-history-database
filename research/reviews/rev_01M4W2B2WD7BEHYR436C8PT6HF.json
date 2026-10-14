@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4W2B2WD7BEHYR436C8PT6HF",
+  "record_kind": "fulfillment",
+  "record_id": "ful_01M4W2B2TS6EQ3FWR8S2W1D2TY",
+  "record_revision": 1,
+  "reason": "Proposed fulfillment (\"They will look to me whom they have pierced\" and the great ): Fulfilled first at the crucifixion of Jesus (John 19:37), completed when Israel turns to him",
+  "triggers": [
+    "proposed_fulfillment"
+  ],
+  "status": "open",
+  "created_at": "2026-10-14T02:02:27.085Z",
+  "decisions": [],
+  "is_fixture": false
+}

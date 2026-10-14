@@ -1,0 +1,354 @@
+{
+  "event_id": "evt_01M4W2B2VAZJFHAYRQ4AK6ZWEM",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Hadad-rimmon",
+      "books_searched": 66,
+      "hits": [
+        "Zech.12.11"
+      ]
+    },
+    {
+      "name": "Mount of Olives",
+      "books_searched": 66,
+      "hits": [
+        "2Sam.15.30",
+        "John.8.1",
+        "Luke.19.37",
+        "Luke.22.39",
+        "Mark.11.1",
+        "Mark.13.3",
+        "Mark.14.26",
+        "Matt.21.1",
+        "Matt.24.3",
+        "Matt.26.30",
+        "Zech.14.4"
+      ]
+    },
+    {
+      "name": "earthquake + Uzziah",
+      "books_searched": 66,
+      "hits": [
+        "Amos.1.1",
+        "Zech.14.5"
+      ]
+    },
+    {
+      "name": "Megiddo",
+      "books_searched": 66,
+      "hits": [
+        "1Chr.7.29",
+        "1Kgs.4.12",
+        "1Kgs.9.15",
+        "2Chr.35.22",
+        "2Kgs.9.27",
+        "2Kgs.23.29",
+        "2Kgs.23.30",
+        "Josh.12.21",
+        "Josh.17.11",
+        "Judg.1.27",
+        "Judg.5.19",
+        "Zech.12.11"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4W2B2VKZ4NRFPYSYGSK31VF",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W2B2VAZJFHAYRQ4AK6ZWEM"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4W2B2TH1BXMD5JPH3180KMQ"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Zech 12:1–9.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W2B2VKZPTE1ZH8G38ZYCX6",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W2B2VAZJFHAYRQ4AK6ZWEM"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4W2B2TH2X3FYTVDBQ14VKJD"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Zech 12:10–14.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W2B2VKMEKPNKRR8MKWD62C",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W2B2VAZJFHAYRQ4AK6ZWEM"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4W2B2TH8K0PKET1WJ2NRZM4"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Zech 13.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W2B2VKD8WCFYQHVRBG4X9Z",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W2B2VAZJFHAYRQ4AK6ZWEM"
+      },
+      "to": {
+        "kind": "prophecy",
+        "id": "pro_01M4W2B2TJAX2JV31NGZWTPKB9"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Zech 14.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W2B2VKHQJ0CV33C56FYANY",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W2B2VAZJFHAYRQ4AK6ZWEM"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4RPJVYKCVT323B86C2GGDXN"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "\"As you fled from before the earthquake in the days of Uzziah king of Judah\" (14:5).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W2B2VKS46MXX4VSBNVN0MX",
+      "type": "direct_reference",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W2B2VAZJFHAYRQ4AK6ZWEM"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VCA091XV13ETPAWBT8TJK2"
+      },
+      "confidence": "medium",
+      "layer": "interpretation",
+      "rationale": "The mourning of Hadad-rimmon in the valley of Megiddo (12:11), identified with the mourning for Josiah (Targum, Jerome, Keil, Mitchell).",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4VJCX9WFDDMH4453WKV1J34",
+          "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W2B2VKJSK55R53RX8TGR1N",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W2B2VAZJFHAYRQ4AK6ZWEM"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VW9EPQMPJP9G5MN3Y04DJG"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "The Feast of Booths kept by the returned community (Neh 8) and by the nations (Zech 14:16–19).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W2B2VK4VQ6E8AC1ZBC7ZX5",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W2B2VAZJFHAYRQ4AK6ZWEM"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "John.19.37"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Zech 12:10 cited at the piercing of Jesus's side.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W2B2VKF161794MBEWZXSPC",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W2B2VAZJFHAYRQ4AK6ZWEM"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Rev.1.7"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "\"Every eye will see him, including those who pierced him.\"",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W2B2VKKCR05G5Y03CA9C1Z",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W2B2VAZJFHAYRQ4AK6ZWEM"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Matt.26.31"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Zech 13:7 quoted by Jesus before his arrest.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W2B2VKY8E81WKJHJVJ7J2S",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W2B2VAZJFHAYRQ4AK6ZWEM"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Acts.1.11-Acts.1.12"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "The ascension from the Mount of Olives.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W2B2VKW5XZW5B5Y9NP38F7",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W2B2VAZJFHAYRQ4AK6ZWEM"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Ezek.47.1-Ezek.47.12"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Living waters from the temple.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4W2B2VC3WEP7SB0T88WD83Q"
+  ]
+}

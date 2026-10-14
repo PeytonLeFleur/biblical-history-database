@@ -1,0 +1,268 @@
+{
+  "book": "Zech",
+  "chapter": 14,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Zech.14.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAMCHQKTSKMXRA4FZB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.14.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAMCHQKTSKMXRA4FZB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.14.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAMCHQKTSKMXRA4FZB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.14.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAMCHQKTSKMXRA4FZB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.14.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAMCHQKTSKMXRA4FZB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.14.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAFPBSSDXJETGZXX11"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.14.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAFPBSSDXJETGZXX11"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.14.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAFPBSSDXJETGZXX11"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.14.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAFPBSSDXJETGZXX11"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.14.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAFPBSSDXJETGZXX11"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.14.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAFPBSSDXJETGZXX11"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.14.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAFPBSSDXJETGZXX11"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.14.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAFPBSSDXJETGZXX11"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.14.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAFPBSSDXJETGZXX11"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.14.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAFPBSSDXJETGZXX11"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.14.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAS1PHP1MXFFRKVFE8"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.14.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAS1PHP1MXFFRKVFE8"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.14.18",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAS1PHP1MXFFRKVFE8"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.14.19",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAS1PHP1MXFFRKVFE8"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.14.20",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAS1PHP1MXFFRKVFE8"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.14.21",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAS1PHP1MXFFRKVFE8"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4W2B2VAMCHQKTSKMXRA4FZB",
+      "title": "The day of the LORD: Jerusalem taken; the LORD fights; the Mount of Olives split; flight as from the Uzziah earthquake",
+      "passage": "Zech.14.1-Zech.14.5",
+      "description": "The nations take Jerusalem; the LORD goes out to fight; his feet stand on the Mount of Olives, which splits; the people flee as before the earthquake in the days of Uzziah; the LORD comes with his holy ones.",
+      "record_type": "prophecy",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Uzziah king of Judah",
+          "matched_entity_id": "per_01M4RPJVYGZDME5BAKA4NAAX2Z",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [
+        {
+          "ref": "Zech.14.5",
+          "phrase": "as you fled from before the earthquake in the days of Uzziah king of Judah",
+          "kind": "relative"
+        }
+      ],
+      "related_passages": [
+        "Amos.1.1",
+        "Acts.1.11-Acts.1.12",
+        "Ezek.11.23",
+        "Joel.3.2"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4W2B2VAZJFHAYRQ4AK6ZWEM"
+    },
+    {
+      "id": "cnd_01M4W2B2VAFPBSSDXJETGZXX11",
+      "title": "One unique day; living waters east and west; the LORD king over all the earth; Jerusalem raised and secure; plague on her attackers",
+      "passage": "Zech.14.6-Zech.14.15",
+      "description": "Neither day nor night; living waters from Jerusalem to the eastern and western seas; the LORD alone king; the land made a plain, Jerusalem raised and inhabited; plague and panic on the attacking nations.",
+      "record_type": "prophecy",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Ezek.47.1-Ezek.47.12",
+        "Joel.3.18",
+        "Deut.6.4"
+      ],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4W2B2VAZJFHAYRQ4AK6ZWEM"
+    },
+    {
+      "id": "cnd_01M4W2B2VAS1PHP1MXFFRKVFE8",
+      "title": "The nations go up yearly to keep the Feast of Booths; \"Holy to the LORD\" on the bells of the horses",
+      "passage": "Zech.14.16-Zech.14.21",
+      "description": "Survivors of the nations go up year by year to worship the King and keep Booths; no rain on those who do not; every pot in Jerusalem holy; no more trader in the house of the LORD.",
+      "record_type": "prophecy",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Lev.23.33-Lev.23.43",
+        "Exod.28.36",
+        "Isa.2.2-Isa.2.4"
+      ],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4W2B2VAZJFHAYRQ4AK6ZWEM"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-zechariah-12-14.md"
+}

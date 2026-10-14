@@ -1,0 +1,133 @@
+{
+  "book": "Zech",
+  "chapter": 13,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Zech.13.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAERSX9HSSFF6MGPZ6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.13.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAERSX9HSSFF6MGPZ6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.13.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAERSX9HSSFF6MGPZ6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.13.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAERSX9HSSFF6MGPZ6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.13.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAERSX9HSSFF6MGPZ6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.13.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAERSX9HSSFF6MGPZ6"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.13.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAHRXDS3YJJA9EF4YH"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.13.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAHRXDS3YJJA9EF4YH"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Zech.13.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W2B2VAHRXDS3YJJA9EF4YH"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4W2B2VAERSX9HSSFF6MGPZ6",
+      "title": "A fountain opened for sin and impurity; idols and false prophets removed",
+      "passage": "Zech.13.1-Zech.13.6",
+      "description": "Cleansing for David's house; the names of idols cut off; parents will pierce a son who prophesies falsely; prophets ashamed of their visions.",
+      "record_type": "prophecy",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Ezek.36.25-Ezek.36.27",
+        "Deut.13.1-Deut.13.11",
+        "Amos.7.14"
+      ],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4W2B2VAZJFHAYRQ4AK6ZWEM"
+    },
+    {
+      "id": "cnd_01M4W2B2VAHRXDS3YJJA9EF4YH",
+      "title": "\"Awake, O sword, against my shepherd\": the shepherd struck, the sheep scattered; a third refined",
+      "passage": "Zech.13.7-Zech.13.9",
+      "description": "The sword against the LORD's shepherd and companion; the flock scattered; two-thirds perish; a third refined as silver and gold.",
+      "record_type": "prophecy",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Matt.26.31-Matt.26.32",
+        "Mark.14.27",
+        "Zech.11.4-Zech.11.17",
+        "Mal.3.2-Mal.3.3"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [
+        "Whether 13:7–9 belongs with ch. 11 (Mitchell)."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4W2B2VAZJFHAYRQ4AK6ZWEM"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-zechariah-12-14.md"
+}

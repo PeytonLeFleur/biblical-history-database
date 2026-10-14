@@ -1,0 +1,68 @@
+{
+  "kind": "prophecy",
+  "id": "pro_01M4W2B2TH2X3FYTVDBQ14VKJD",
+  "slug": "they-will-look-on-me-whom-they-pierced-zech-12",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VJCX9WFDDMH4453WKV1J34",
+    "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+    "src_01M4W2B2T7W4Y9MFMSJ9CVAF98"
+  ],
+  "notes": null,
+  "title": "\"They will look to me whom they have pierced\" and the great mourning (Zech 12:10–14)",
+  "passage": "Zech.12.10-Zech.12.14",
+  "speaker": "The LORD (through the prophet)",
+  "vision_id": null,
+  "description": "The LORD pours on David's house and Jerusalem a spirit of grace and supplication; they look to \"me whom they have pierced\" and mourn for him as for an only son; the mourning is like that of Hadad-rimmon in the valley of Megiddo, every clan apart and their wives apart.",
+  "in_text_interpretation": "The text shifts from \"me\" to \"him\"; the pierced one is not named.",
+  "interpretations": [
+    {
+      "id": "ful_01M4W2B2TS6EQ3FWR8S2W1D2TY",
+      "label": "Fulfilled first at the crucifixion of Jesus (John 19:37), completed when Israel turns to him",
+      "approach": "mixed",
+      "framework": "Traditional Christian (New Testament citation)",
+      "proponents": [
+        "John 19:34–37; Rev 1:7 (text)",
+        "C. F. Keil (1868)",
+        "D. Guzik"
+      ],
+      "summary": "Textual reasoning: the shift from \"me\" to \"him\" shows one essentially one with the LORD yet personally distinct — the Angel of the LORD incarnate (Keil); John cites the verse of the spear-thrust. Objection: Mitchell argues the piercing lies in the past relative to the writer, so it cannot be the future Messiah.",
+      "referents": [
+        {
+          "symbol": "Me/him whom they pierced",
+          "referent": "Jesus"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": true,
+      "citations": [
+        "src_01M4VJCX9WFDDMH4453WKV1J34",
+        "src_01M4W2B2T7W4Y9MFMSJ9CVAF98"
+      ],
+      "reviewer_status": "machine_proposed"
+    },
+    {
+      "id": "ful_01M4W2B2TS8WCMD6KAQ81QJRS6",
+      "label": "A past martyr or martyrs (perhaps read through the Servant of Isa 53)",
+      "approach": "preterist",
+      "framework": "Historical-critical",
+      "proponents": [
+        "H. G. Mitchell (1912)"
+      ],
+      "summary": "Textual reasoning: the outpouring is future but the piercing already happened; no known individual fits (Zechariah son of Jehoiada, Uriah, Gedaliah are too remote); perhaps godly persons killed late in the Persian period, or the Servant of Isaiah taken as a historical martyr — as later Jews spoke of \"Messiah son of Joseph\".",
+      "referents": [
+        {
+          "symbol": "Him whom they pierced",
+          "referent": "A martyr or martyred group"
+        }
+      ],
+      "linked_events": [],
+      "is_proposed_fulfillment": false,
+      "citations": [
+        "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+      ],
+      "reviewer_status": "machine_proposed"
+    }
+  ]
+}
