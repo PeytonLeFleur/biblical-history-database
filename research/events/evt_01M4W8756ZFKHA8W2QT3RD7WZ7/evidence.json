@@ -1,0 +1,128 @@
+{
+  "event_id": "evt_01M4W8756ZFKHA8W2QT3RD7WZ7",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Esther 8",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "P&D Xerxes year 12 (local OCR)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Keil 1873 on Esther 8 (local OCR)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": false,
+      "not_applicable_reason": "Not pursued in this unit."
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Calendar conversion from Parker & Dubberstein."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4W875743MHE234C2978N1WT",
+      "statement": "Mordecai's counter-decree is dated 23 Sivan of Xerxes's twelfth year, about 25 June 474 BC.",
+      "layer": "reconstruction",
+      "passage": "Esth.8.9",
+      "classification": "historically_plausible",
+      "reasoning": "Day, month and (by context) regnal year are given; Parker and Dubberstein put 1 Sivan of year 12 on 3 June 474. Depends on Ahasuerus = Xerxes and on the account's historicity (disputed; see Esth 2).",
+      "supporting_evidence": [
+        "evd_01M4W87574S2R08JMJ8S9RFFKD"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4W87574H99E30TM3BJPZBQ5",
+      "statement": "A royal edict permitted the Jews throughout the empire to defend themselves on 13 Adar.",
+      "layer": "evidence",
+      "passage": "Esth.8.11",
+      "classification": "no_independent_corroboration_found",
+      "reasoning": "Known only from Esther and its retellings.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4W875741E50H4GESXXWH1DF"
+      ],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4W87574S2R08JMJ8S9RFFKD",
+      "claim_ids": [
+        "clm_01M4W875743MHE234C2978N1WT"
+      ],
+      "source_id": "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Month III began 3 June 474.",
+      "locator": "Xerxes year 12 row",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "babylonian-calendar"
+    },
+    {
+      "id": "evd_01M4W875741E50H4GESXXWH1DF",
+      "claim_ids": [
+        "clm_01M4W87574H99E30TM3BJPZBQ5"
+      ],
+      "source_id": "src_01M4W8756DEDN4H967GFHB2ZNV",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "The counter-decree.",
+      "locator": "on 8:7–14",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "enduring-word"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": []
+}

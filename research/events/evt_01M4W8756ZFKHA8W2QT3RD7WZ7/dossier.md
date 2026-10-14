@@ -1,0 +1,913 @@
+# Mordecai's counter-decree of 23 Sivan (Esth 8; June 474 BC)
+
+> **Status:** Preliminary research · research status `needs_review` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Esther 8:1–17 (narration)
+
+## Biblical account
+
+The king gave Esther Haman's house and Mordecai the signet ring; Esther begged that Haman's letters be reversed, but a decree sealed with the king's ring could not be revoked. On 23 Sivan the scribes wrote, as Mordecai commanded, to the satraps and governors of the 127 provinces in every script and language, allowing the Jews to gather and defend themselves and destroy any force that attacked them on 13 Adar; mounted couriers took the edict. Mordecai went out in royal robes; there was light and gladness among the Jews, and many of the peoples became Jews.
+
+## Historical setting
+
+**Period:** 23 Sivan, Xerxes year 12 — about 25 June 474 BC (Parker & Dubberstein)
+
+Two months and ten days after Haman's decree of 13 Nisan. [1]
+
+### Rulers
+
+- Xerxes I: King of Persia (Ahasuerus) [2]
+
+## Date and chronology
+
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → “13 Nisan (3:12) … 23 Sivan (8:9)”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “in the third month, which is the month Sivan, on the twenty-third day of the month” (Esther 8:9) → `in_regnal_year` reign of Xerxes I; assumptions: The same year as the decree of Nisan (3:7–12): Sivan of Xerxes's year 12 began 3 June 474 (Parker & Dubberstein), so 23 Sivan was about 25 June 474. [1]
+- “13 Nisan (3:12) … 23 Sivan (8:9)” (Esther 8:9) → `months_later` Haman casts pur and the decree against the Jews (Esth 3; Nisan 474 BC)
+
+## Geography
+
+- Susa (Shushan) (Susa; confidence: certain)
+  - Susa (Pleiades 912936): certain [3]
+
+## Claims and evidence
+
+### Mordecai's counter-decree is dated 23 Sivan of Xerxes's twelfth year, about 25 June 474 BC.
+
+**Classification:** Historically plausible (machine proposed) · layer: reconstruction
+
+Day, month and (by context) regnal year are given; Parker and Dubberstein put 1 Sivan of year 12 on 3 June 474. Depends on Ahasuerus = Xerxes and on the account's historicity (disputed; see Esth 2).
+
+- *Supporting (direct):* Month III began 3 June 474. (Xerxes year 12 row) [1]
+
+### A royal edict permitted the Jews throughout the empire to defend themselves on 13 Adar.
+
+**Classification:** No independent corroboration found (machine proposed) · layer: evidence
+
+Known only from Esther and its retellings.
+
+- *Context (indirect):* The counter-decree. (on 8:7–14) [4]
+
+## Related passages and events
+
+- this event → **preceded by** → Haman casts pur and the decree against the Jews (Esth 3; Nisan 474 BC) (high): Countering the decree of 13 Nisan.
+- this event → **followed by** → The Jews defend themselves on 13–14 Adar (Esth 9:1–19; 473 BC) (high): Carried out on 13 Adar.
+- this event → **thematic parallel** → Daniel 6:8 (medium): The law of the Medes and Persians that cannot be revoked.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik reads the counter-decree as a picture of God satisfying his justice while saving his people. [4]
+
+## Sources
+
+1. Parker, Richard A., Dubberstein, Waldo H.. Babylonian Chronology 626 B.C.–A.D. 45 (SAOC 24). University of Chicago Press (Oriental Institute). <https://archive.org/details/saoc-24.-babylonian-chronology-626-b.-c.-a.-d.-45> — *academic monograph; verification: claim checked*
+2. Keil, C. F., Taylor, Sophia (trans.). Biblical Commentary on the Books of Ezra, Nehemiah, and Esther (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1873. <https://archive.org/details/booksofezranehem00keil> — *scholarly commentary; verification: claim checked*
+3. Pleiades contributors. Susa/Seleucia ad Eulaeum — Pleiades place 912936. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/912936> — *institutional database; verification: claim checked*
+4. Guzik, David. Esther 8 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/esther-8/> — *theological commentary; verification: claim checked*

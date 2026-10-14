@@ -1,0 +1,90 @@
+{
+  "event_id": "evt_01M4W8756Z7H1W8SH568SVW1VX",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Esther 9",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Josephus Ant. 11.6.13 (Gutenberg, local)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": false,
+      "not_applicable_reason": "Not pursued in this unit."
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Calendar conversion from Parker & Dubberstein."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4W875741DR5P6W2D8RV7KJR",
+      "statement": "On 13–14 Adar the Jews killed some 75,800 attackers across the empire.",
+      "layer": "evidence",
+      "passage": "Esth.9.6-Esth.9.16",
+      "classification": "no_independent_corroboration_found",
+      "reasoning": "The figures (500 + ten sons + 300 in Susa; 75,000 in the provinces) come from Esther; Josephus repeats 75,000 but depends on the biblical account. No Persian or Greek source read mentions the fighting.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4W87575DFG5T0P8RC3VWD84"
+      ],
+      "limitations": [
+        "The Greek versions' figures were not checked."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4W87575DFG5T0P8RC3VWD84",
+      "claim_ids": [
+        "clm_01M4W875741DR5P6W2D8RV7KJR"
+      ],
+      "source_id": "src_01M4W8756TH65VFW5SZ5TC7BTG",
+      "stance": "contextual",
+      "strength": "direct",
+      "finding": "Seventy-five thousand slain in the provinces (retelling).",
+      "locator": "Ant. 11.6.13",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": []
+}

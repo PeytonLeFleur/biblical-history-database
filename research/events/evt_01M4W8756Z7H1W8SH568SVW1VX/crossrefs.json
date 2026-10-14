@@ -1,0 +1,76 @@
+{
+  "event_id": "evt_01M4W8756Z7H1W8SH568SVW1VX",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Adar (Esther)",
+      "books_searched": 66,
+      "hits": [
+        "Esth.3.7",
+        "Esth.3.13",
+        "Esth.8.12",
+        "Esth.9.1",
+        "Esth.9.15",
+        "Esth.9.17",
+        "Esth.9.19",
+        "Esth.9.21"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4W8757EV1K3KWSW0KF27BSE",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W8756Z7H1W8SH568SVW1VX"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4W6JZE3ZQVDCV653K0ECY8H"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The day fixed by Haman's lot.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W8757EG51C8BAQZ42ETNMJ",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W8756Z7H1W8SH568SVW1VX"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4W8756Z4GNT0935HEXQM571"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Commemorated as Purim.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4W87572JB0ZYMPV4EFPFZH0",
+    "cst_01M4W87572NDP9HNWQDYCHDWJB"
+  ]
+}

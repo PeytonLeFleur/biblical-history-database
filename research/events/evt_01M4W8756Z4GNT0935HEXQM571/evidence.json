@@ -1,0 +1,114 @@
+{
+  "event_id": "evt_01M4W8756Z4GNT0935HEXQM571",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "2 Maccabees 15 (WEB)",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Josephus Ant. 11.6.13 (Gutenberg, local)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Esther 9–10",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": false,
+      "not_applicable_reason": "Not pursued in this unit."
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Calendar conversion from Parker & Dubberstein."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4W87575XSG1PJXG3TFSGGFF",
+      "statement": "A festival on 14 Adar associated with Mordecai (Purim) was observed by the time 2 Maccabees and Josephus were written.",
+      "layer": "evidence",
+      "passage": "Esth.9.20-Esth.9.28",
+      "classification": "strongly_supported",
+      "reasoning": "2 Maccabees 15:36 (read directly) names 13 Adar \"the day before the day of Mordecai\"; Josephus (read directly) says the Jews still keep the days of Phurim. These attest the festival's observance, not the events of Esther 9.",
+      "supporting_evidence": [
+        "evd_01M4W87575T3V355HARCDJ4B5C",
+        "evd_01M4W875759SMPPW4NH5THRJBS"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4W87575T3V355HARCDJ4B5C",
+      "claim_ids": [
+        "clm_01M4W87575XSG1PJXG3TFSGGFF"
+      ],
+      "source_id": "src_01M4W8756ZA3AZ3P0623AF0WQM",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "\"The day before the day of Mordecai\" (13 Adar).",
+      "locator": "2 Macc 15:36",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "2-maccabees"
+    },
+    {
+      "id": "evd_01M4W875759SMPPW4NH5THRJBS",
+      "claim_ids": [
+        "clm_01M4W87575XSG1PJXG3TFSGGFF"
+      ],
+      "source_id": "src_01M4W8756TH65VFW5SZ5TC7BTG",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "The Jews still keep the days of Phurim.",
+      "locator": "Ant. 11.6.13",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "The date of composition of 2 Maccabees was not researched here."
+  ]
+}

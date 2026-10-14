@@ -1,0 +1,358 @@
+{
+  "book": "Esth",
+  "chapter": 9,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Esth.9.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZGZJG4Y91JE22271K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.9.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZGZJG4Y91JE22271K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.9.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZGZJG4Y91JE22271K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.9.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZGZJG4Y91JE22271K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.9.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZGZJG4Y91JE22271K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.9.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZGZJG4Y91JE22271K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.9.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZGZJG4Y91JE22271K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.9.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZGZJG4Y91JE22271K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.9.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZGZJG4Y91JE22271K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.9.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZGZJG4Y91JE22271K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.9.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZGZJG4Y91JE22271K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.9.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZGZJG4Y91JE22271K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.9.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZGZJG4Y91JE22271K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.9.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZGZJG4Y91JE22271K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.9.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZGZJG4Y91JE22271K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.9.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZGZJG4Y91JE22271K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.9.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZGZJG4Y91JE22271K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.9.18",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZGZJG4Y91JE22271K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.9.19",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756ZGZJG4Y91JE22271K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.9.20",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z4852V1BY6X4H342W"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.9.21",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z4852V1BY6X4H342W"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.9.22",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z4852V1BY6X4H342W"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.9.23",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z4852V1BY6X4H342W"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.9.24",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z4852V1BY6X4H342W"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.9.25",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z4852V1BY6X4H342W"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.9.26",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z4852V1BY6X4H342W"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.9.27",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z4852V1BY6X4H342W"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.9.28",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z4852V1BY6X4H342W"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.9.29",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z4852V1BY6X4H342W"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.9.30",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z4852V1BY6X4H342W"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.9.31",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z4852V1BY6X4H342W"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.9.32",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W8756Z4852V1BY6X4H342W"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4W8756ZGZJG4Y91JE22271K",
+      "title": "The Jews defend themselves on 13 Adar; 500 and Haman's ten sons in Susa; a second day in Susa; 75,000 in the provinces; no plunder taken",
+      "passage": "Esth.9.1-Esth.9.19",
+      "description": "On 13 Adar the Jews struck their enemies, helped by the officials for fear of Mordecai; in Susa 500 and Haman's ten sons were killed, and at Esther's request 300 more on the 14th; in the provinces 75,000, resting on the 14th; in Susa they rested on the 15th; they took no plunder.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "military",
+        "political"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Queen Esther",
+          "matched_entity_id": "per_01M4W50S9RTTQN3RVR8N4C01C0",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Mordecai",
+          "matched_entity_id": "per_01M4W50S9Z08YHEY3ZW19N32AD",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "King Ahasuerus",
+          "matched_entity_id": "per_01M4V26XGRRNK70YK6ZWR2NB6W",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Shushan",
+          "matched_entity_id": "loc_01M4TTS0HF7XKVH1VBRM0K0TFS",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [
+        {
+          "ref": "Esth.9.1",
+          "phrase": "in the twelfth month, which is the month Adar, on the thirteenth day of the month",
+          "kind": "absolute"
+        }
+      ],
+      "related_passages": [
+        "1Sam.15.3",
+        "Exod.17.14-Exod.17.16"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [
+        "The number killed in the provinces (75,000 in the Hebrew and Josephus)."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4W8756Z7H1W8SH568SVW1VX"
+    },
+    {
+      "id": "cnd_01M4W8756Z4852V1BY6X4H342W",
+      "title": "Mordecai's letters and Esther's second letter establish Purim on 14–15 Adar",
+      "passage": "Esth.9.20-Esth.9.32",
+      "description": "Mordecai wrote to all the Jews to keep the 14th and 15th of Adar yearly with feasting and gifts; the days were called Purim from \"pur\"; the Jews bound themselves and their descendants; Esther and Mordecai wrote a second letter confirming Purim with its fasts and lamentations.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious",
+        "legal"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Mordecai",
+          "matched_entity_id": "per_01M4W50S9Z08YHEY3ZW19N32AD",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Esther the queen",
+          "matched_entity_id": "per_01M4W50S9RTTQN3RVR8N4C01C0",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Esth.3.7"
+      ],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4W8756Z4GNT0935HEXQM571"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-esther-6-10.md"
+}

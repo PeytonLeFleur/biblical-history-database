@@ -1,0 +1,93 @@
+{
+  "event_id": "evt_01M4W8756ZFKHA8W2QT3RD7WZ7",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Sivan",
+      "books_searched": 66,
+      "hits": [
+        "Esth.8.9"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4W8757CBRV57QDT997A8X3F",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W8756ZFKHA8W2QT3RD7WZ7"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4W6JZE3ZQVDCV653K0ECY8H"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Countering the decree of 13 Nisan.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W8757C70TTX5BAFS6SADP7",
+      "type": "followed_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W8756ZFKHA8W2QT3RD7WZ7"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4W8756Z7H1W8SH568SVW1VX"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Carried out on 13 Adar.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W8757CTFH34YPEN84Q7QFS",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W8756ZFKHA8W2QT3RD7WZ7"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Dan.6.8"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "The law of the Medes and Persians that cannot be revoked.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4W87572ZX3719BTKXA9332Z",
+    "cst_01M4W875729C7J0HPWXN48AA48"
+  ]
+}

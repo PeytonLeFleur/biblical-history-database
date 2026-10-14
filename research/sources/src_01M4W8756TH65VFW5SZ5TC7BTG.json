@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4W8756TH65VFW5SZ5TC7BTG",
+  "title": "Josephus, Antiquities 11.6.1–13 (trans. W. Whiston)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Josephus",
+    "Whiston, William (trans.)"
+  ],
+  "publisher": "Project Gutenberg #2848",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.gutenberg.org/ebooks/2848",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Josephus, Ant. 11.6.1–13",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-14",
+      "method": "Read in the downloaded Gutenberg text",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-14",
+      "method": "11.6.1: after Xerxes the kingdom passed to \"his son Cyrus, whom the Greeks called Artaxerxes\", who married a Jewish wife; 11.6.13: seventy-five thousand enemies slain in the provinces; Mordecai wrote to keep the days, and \"the Jews still keep the forementioned days, and call them days of Phurim\"",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

@@ -1,0 +1,910 @@
+# The institution of Purim; Mordecai second to the king (Esth 9:20–10:3)
+
+> **Status:** Preliminary research · research status `publishable` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Esther 9:20–10:3 (narration)
+
+## Biblical account
+
+Mordecai recorded these things and wrote to all the Jews in the provinces to keep the 14th and 15th of Adar every year as days of feasting, gladness and gifts to the poor; the days were called Purim after pur, the lot Haman had cast. The Jews bound themselves and their descendants to keep them. Queen Esther and Mordecai wrote a second letter confirming Purim and its fasts. Ahasuerus laid tribute on the land and the islands; his acts and Mordecai's greatness are written in the chronicles of the kings of Media and Persia, Mordecai being second to the king.
+
+## Historical setting
+
+**Period:** After 473 BC; observed in later centuries
+
+2 Maccabees 15:36 sets Nicanor's Day on 13 Adar, "the day before the day of Mordecai"; Josephus says the Jews still keep the days of Phurim. [1, 2]
+
+### Rulers
+
+- Xerxes I: King of Persia (Ahasuerus) [3]
+
+## Date and chronology
+
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+- **474 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W87572NDP9HNWQDYCHDWJB → “Mordecai wrote these things”
+  - Latest bound from: —
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “Mordecai wrote these things” (Esther 9:20) → `after` The Jews defend themselves on 13–14 Adar (Esth 9:1–19; 473 BC)
+
+## Geography
+
+- Susa (Shushan) (Susa; confidence: certain)
+  - Susa (Pleiades 912936): certain [4]
+
+## Claims and evidence
+
+### A festival on 14 Adar associated with Mordecai (Purim) was observed by the time 2 Maccabees and Josephus were written.
+
+**Classification:** Strongly supported (machine proposed) · layer: evidence
+
+2 Maccabees 15:36 (read directly) names 13 Adar "the day before the day of Mordecai"; Josephus (read directly) says the Jews still keep the days of Phurim. These attest the festival's observance, not the events of Esther 9.
+
+- *Supporting (direct):* "The day before the day of Mordecai" (13 Adar). (2 Macc 15:36) [1]
+- *Supporting (direct):* The Jews still keep the days of Phurim. (Ant. 11.6.13) [2]
+
+## Related passages and events
+
+- this event → **preceded by** → The Jews defend themselves on 13–14 Adar (Esth 9:1–19; 473 BC) (high): The deliverance it commemorates.
+- this event → **thematic parallel** → Haman casts pur and the decree against the Jews (Esth 3; Nisan 474 BC) (high): Named from the pur cast in 3:7.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik, after Spurgeon, calls Esther a record of wonders without a miracle. [5]
+
+## Unanswered questions and research gaps
+
+- The date of composition of 2 Maccabees was not researched here.
+- The "chronicles of the kings of Media and Persia" (10:2) are not extant.
+
+## Sources
+
+1. World English Bible (translators). World English Bible — Apocrypha/Deuterocanon (2 Maccabees 15). eBible.org. <https://ebible.org/eng-web/2MA15.htm> — *ancient primary text; verification: claim checked*
+2. Josephus, Whiston, William (trans.). Josephus, Antiquities 11.6.1–13 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*
+3. Keil, C. F., Taylor, Sophia (trans.). Biblical Commentary on the Books of Ezra, Nehemiah, and Esther (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1873. <https://archive.org/details/booksofezranehem00keil> — *scholarly commentary; verification: claim checked*
+4. Pleiades contributors. Susa/Seleucia ad Eulaeum — Pleiades place 912936. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/912936> — *institutional database; verification: claim checked*
+5. Guzik, David. Esther 10 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/esther-10/> — *theological commentary; verification: claim checked*

@@ -23,846 +23,846 @@ Three days after Esther's resolve (4:16; 5:1). [1]
 
 ## Date and chronology
 
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *model-independent*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *model-independent*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: day
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+- **474 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
   - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
-  - Latest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention → cst_01M4W87572NDP9HNWQDYCHDWJB → cst_01M4W875729C7J0HPWXN48AA48 → cst_01M4W6JZE5HGWBRBJ6M73KTY3M → “Now on the third day”
 
 *Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
 

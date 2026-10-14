@@ -1,0 +1,59 @@
+{
+  "id": "evt_01M4W8756Z217C4YN4XKQHA7C9",
+  "slug": "mordecai-honoured-by-the-sleepless-king-esth-6",
+  "title": "The sleepless king; Mordecai honoured by Haman (Esth 6)",
+  "summary": "Unable to sleep, the king had the chronicles read, learned that Mordecai had not been rewarded for exposing the plot, and had Haman — who had come to ask for Mordecai's death — lead him through Susa in royal honour.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4W8756Z1DNW61KM6FC8TY0N"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "historical_narrative",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "political"
+  ],
+  "priority": "medium",
+  "research_status": "publishable",
+  "publication_level": "preliminary",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Esth.6.1-Esth.6.14",
+      "mention_type": "narration",
+      "notes": null
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "in_progress",
+      "updated": "2026-10-14",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

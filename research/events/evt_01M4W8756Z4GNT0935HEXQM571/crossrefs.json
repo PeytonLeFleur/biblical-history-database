@@ -1,0 +1,72 @@
+{
+  "event_id": "evt_01M4W8756Z4GNT0935HEXQM571",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Purim",
+      "books_searched": 66,
+      "hits": [
+        "Esth.9.26",
+        "Esth.9.28",
+        "Esth.9.29",
+        "Esth.9.31",
+        "Esth.9.32"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4W8757G2CE2RRGSNBQNW3K6",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W8756Z4GNT0935HEXQM571"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4W8756Z7H1W8SH568SVW1VX"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The deliverance it commemorates.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4W8757GV34G8EQ7GNWCC3A5",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4W8756Z4GNT0935HEXQM571"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4W6JZE3ZQVDCV653K0ECY8H"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Named from the pur cast in 3:7.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4W87572SHRS56CSWVVVCVM1"
+  ]
+}

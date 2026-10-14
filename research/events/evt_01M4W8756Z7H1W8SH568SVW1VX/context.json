@@ -1,0 +1,104 @@
+{
+  "event_id": "evt_01M4W8756Z7H1W8SH568SVW1VX",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "On 13 Adar, when the enemies of the Jews hoped to overpower them, the Jews gathered in their cities and struck those who sought their harm; the officials helped them for fear of Mordecai. In Susa they killed 500 men and the ten sons of Haman; at Esther's request the king allowed a second day in Susa, when 300 more were killed, and Haman's sons were hanged. In the provinces 75,000 were killed; the Jews took no plunder. The provincial Jews rested and feasted on the 14th, those of Susa on the 15th.",
+    "passage": "Esth.9.1-Esth.9.19"
+  },
+  "setting": {
+    "period": "13–14 Adar of Xerxes year 12 (early 473 BC)",
+    "body": "The date set by Haman's lot (3:7, 13). Josephus gives the same 75,000 for the provinces.",
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "src_01M4W8756TH65VFW5SZ5TC7BTG"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V26XGRRNK70YK6ZWR2NB6W",
+      "reign_id": "rgn_01M4W50S9H597M5GWGYJWYY4SE",
+      "role": "King of Persia (Ahasuerus)",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4W87572JB0ZYMPV4EFPFZH0",
+      "subject": "evt_01M4W8756Z7H1W8SH568SVW1VX",
+      "object": "rgn_01M4W50S9H597M5GWGYJWYY4SE",
+      "relation": "in_regnal_year",
+      "textual_assertion": "in the twelfth month, which is the month Adar, on the thirteenth day of the month",
+      "passage": "Esth.9.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 12,
+      "alternative_option": null,
+      "regnal_convention": {
+        "reckoning": "accession",
+        "new_year": "nisan"
+      },
+      "precision": "month",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Adar closing Xerxes's year 12 fell in early 473; year 12 had a second Adar (from 24 March 473) and the text does not say which is meant."
+      ],
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ],
+      "verification": "source_checked"
+    },
+    {
+      "id": "cst_01M4W87572NDP9HNWQDYCHDWJB",
+      "subject": "evt_01M4W8756Z7H1W8SH568SVW1VX",
+      "object": "evt_01M4W8756ZFKHA8W2QT3RD7WZ7",
+      "relation": "months_later",
+      "textual_assertion": "Sivan … Adar",
+      "passage": "Esth.9.1",
+      "offset": {
+        "min": 8,
+        "max": 10
+      },
+      "unit": "months",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "month",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4TTS0HF7XKVH1VBRM0K0TFS",
+      "role": "Susa",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [],
+  "commentary": [
+    {
+      "source_id": "src_01M4W8756HRQXVEA8253NQZP9V",
+      "layer": "interpretation",
+      "paraphrase": "Guzik sees the destruction of Haman's sons as completing the judgment on Amalek.",
+      "url": "https://enduringword.com/bible-commentary/esther-9/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}

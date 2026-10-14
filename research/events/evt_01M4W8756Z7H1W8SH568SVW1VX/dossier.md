@@ -1,0 +1,907 @@
+# The Jews defend themselves on 13–14 Adar (Esth 9:1–19; 473 BC)
+
+> **Status:** Preliminary research · research status `needs_review` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Esther 9:1–19 (narration)
+
+## Biblical account
+
+On 13 Adar, when the enemies of the Jews hoped to overpower them, the Jews gathered in their cities and struck those who sought their harm; the officials helped them for fear of Mordecai. In Susa they killed 500 men and the ten sons of Haman; at Esther's request the king allowed a second day in Susa, when 300 more were killed, and Haman's sons were hanged. In the provinces 75,000 were killed; the Jews took no plunder. The provincial Jews rested and feasted on the 14th, those of Susa on the 15th.
+
+## Historical setting
+
+**Period:** 13–14 Adar of Xerxes year 12 (early 473 BC)
+
+The date set by Haman's lot (3:7, 13). Josephus gives the same 75,000 for the provinces. [1, 2]
+
+### Rulers
+
+- Xerxes I: King of Persia (Ahasuerus) [3]
+
+## Date and chronology
+
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *model-independent*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+- **474 BC – 473 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: month
+  - Earliest bound from: cst_01M4W6JZE5P0ZYJBZX7C7QBXKN|cst_01M4W6JZE5P0ZYJBZX7C7QBXKN#own-convention → cst_01M4W875729C7J0HPWXN48AA48 → “Sivan … Adar”
+  - Latest bound from: cst_01M4W87572JB0ZYMPV4EFPFZH0|cst_01M4W87572JB0ZYMPV4EFPFZH0#own-convention
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “in the twelfth month, which is the month Adar, on the thirteenth day of the month” (Esther 9:1) → `in_regnal_year` reign of Xerxes I; assumptions: Adar closing Xerxes's year 12 fell in early 473; year 12 had a second Adar (from 24 March 473) and the text does not say which is meant. [1]
+- “Sivan … Adar” (Esther 9:1) → `months_later` Mordecai's counter-decree of 23 Sivan (Esth 8; June 474 BC)
+
+## Geography
+
+- Susa (Shushan) (Susa; confidence: certain)
+  - Susa (Pleiades 912936): certain [4]
+
+## Claims and evidence
+
+### On 13–14 Adar the Jews killed some 75,800 attackers across the empire.
+
+**Classification:** No independent corroboration found (machine proposed) · layer: evidence
+
+The figures (500 + ten sons + 300 in Susa; 75,000 in the provinces) come from Esther; Josephus repeats 75,000 but depends on the biblical account. No Persian or Greek source read mentions the fighting.
+
+- *Context (direct):* Seventy-five thousand slain in the provinces (retelling). (Ant. 11.6.13) [2]
+
+*Limitations:* The Greek versions' figures were not checked.
+
+## Related passages and events
+
+- this event → **thematic parallel** → Haman casts pur and the decree against the Jews (Esth 3; Nisan 474 BC) (high): The day fixed by Haman's lot.
+- this event → **followed by** → The institution of Purim; Mordecai second to the king (Esth 9:20–10:3) (high): Commemorated as Purim.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik sees the destruction of Haman's sons as completing the judgment on Amalek. [5]
+
+## Sources
+
+1. Parker, Richard A., Dubberstein, Waldo H.. Babylonian Chronology 626 B.C.–A.D. 45 (SAOC 24). University of Chicago Press (Oriental Institute). <https://archive.org/details/saoc-24.-babylonian-chronology-626-b.-c.-a.-d.-45> — *academic monograph; verification: claim checked*
+2. Josephus, Whiston, William (trans.). Josephus, Antiquities 11.6.1–13 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*
+3. Keil, C. F., Taylor, Sophia (trans.). Biblical Commentary on the Books of Ezra, Nehemiah, and Esther (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1873. <https://archive.org/details/booksofezranehem00keil> — *scholarly commentary; verification: claim checked*
+4. Pleiades contributors. Susa/Seleucia ad Eulaeum — Pleiades place 912936. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/912936> — *institutional database; verification: claim checked*
+5. Guzik, David. Esther 9 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/esther-9/> — *theological commentary; verification: claim checked*

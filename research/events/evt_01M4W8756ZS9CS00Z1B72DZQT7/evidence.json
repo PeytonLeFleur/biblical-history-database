@@ -1,0 +1,81 @@
+{
+  "event_id": "evt_01M4W8756ZS9CS00Z1B72DZQT7",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Esther 7",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": false,
+      "not_applicable_reason": "Not pursued in this unit."
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Calendar conversion from Parker & Dubberstein."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4W875747PQ5J7AFB2XDVETC",
+      "statement": "Haman was executed after Esther exposed his plot.",
+      "layer": "evidence",
+      "passage": "Esth.7.6-Esth.7.10",
+      "classification": "no_independent_corroboration_found",
+      "reasoning": "Known only from Esther and its retellings (Josephus follows the biblical story); no Persian or Greek source read mentions it.",
+      "supporting_evidence": [],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4W87574QSDWM9VY0SA3T4D3"
+      ],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4W87574QSDWM9VY0SA3T4D3",
+      "claim_ids": [
+        "clm_01M4W875747PQ5J7AFB2XDVETC"
+      ],
+      "source_id": "src_01M4W87568CD6Q2B9G0ATZ525J",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Haman was executed after Esther exposed his plot.",
+      "locator": "Esth.7.6-Esth.7.10",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "enduring-word"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": []
+}
