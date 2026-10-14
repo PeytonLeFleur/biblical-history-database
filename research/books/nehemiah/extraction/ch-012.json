@@ -1,0 +1,495 @@
+{
+  "book": "Neh",
+  "chapter": 12,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Neh.12.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28K0KRA6MEJDH3T570Y"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28K0KRA6MEJDH3T570Y"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28K0KRA6MEJDH3T570Y"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28K0KRA6MEJDH3T570Y"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28K0KRA6MEJDH3T570Y"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28K0KRA6MEJDH3T570Y"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28K0KRA6MEJDH3T570Y"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28K0KRA6MEJDH3T570Y"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28K0KRA6MEJDH3T570Y"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28K0KRA6MEJDH3T570Y"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28K0KRA6MEJDH3T570Y"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28K0KRA6MEJDH3T570Y"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28K0KRA6MEJDH3T570Y"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28K0KRA6MEJDH3T570Y"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28K0KRA6MEJDH3T570Y"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28K0KRA6MEJDH3T570Y"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28K0KRA6MEJDH3T570Y"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.18",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28K0KRA6MEJDH3T570Y"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.19",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28K0KRA6MEJDH3T570Y"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.20",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28K0KRA6MEJDH3T570Y"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.21",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28K0KRA6MEJDH3T570Y"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.22",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28K0KRA6MEJDH3T570Y"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.23",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28K0KRA6MEJDH3T570Y"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.24",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28K0KRA6MEJDH3T570Y"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.25",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28K0KRA6MEJDH3T570Y"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.26",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28K0KRA6MEJDH3T570Y"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.27",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KBBD6ND4EH39EBA21"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.28",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KBBD6ND4EH39EBA21"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.29",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KBBD6ND4EH39EBA21"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.30",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KBBD6ND4EH39EBA21"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.31",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KBBD6ND4EH39EBA21"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.32",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KBBD6ND4EH39EBA21"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.33",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KBBD6ND4EH39EBA21"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.34",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KBBD6ND4EH39EBA21"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.35",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KBBD6ND4EH39EBA21"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.36",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KBBD6ND4EH39EBA21"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.37",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KBBD6ND4EH39EBA21"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.38",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KBBD6ND4EH39EBA21"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.39",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KBBD6ND4EH39EBA21"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.40",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KBBD6ND4EH39EBA21"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.41",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KBBD6ND4EH39EBA21"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.42",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KBBD6ND4EH39EBA21"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.43",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KBBD6ND4EH39EBA21"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.44",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KBBD6ND4EH39EBA21"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.45",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KBBD6ND4EH39EBA21"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.46",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KBBD6ND4EH39EBA21"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.12.47",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KBBD6ND4EH39EBA21"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4VYR28K0KRA6MEJDH3T570Y",
+      "title": "Priests and Levites who came with Zerubbabel; the high-priestly line Jeshua to Jaddua; priests under Joiakim; Levites recorded to the days of Johanan and Jaddua, \"in the reign of Darius the Persian\"",
+      "passage": "Neh.12.1-Neh.12.26",
+      "description": "Lists of priests and Levites of the first return; the succession Jeshua, Joiakim, Eliashib, Joiada, Jonathan, Jaddua; heads of priestly houses in the days of Joiakim; Levites and priests recorded in the days of Eliashib, Joiada, Johanan and Jaddua, in the reign of Darius the Persian; Levites in the book of the chronicles to the days of Johanan.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "genealogical",
+        "religious"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Eliashib",
+          "matched_entity_id": "per_01M4VT5TNJHKHAH0YZGRHEBGTZ",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Joiada",
+          "matched_entity_id": "per_01M4VYR28E4C52QJPR5HQP9H42",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Johanan",
+          "matched_entity_id": "per_01M4VS7B2DVMCBW1XZQ13TT97V",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Jaddua",
+          "matched_entity_id": "per_01M4VYR28K04H253M5WMFRW8PF",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Nehemiah the governor",
+          "matched_entity_id": "per_01M4VS7B1CFQTEKVYD0TDWK1CB",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Ezra the priest and scribe",
+          "matched_entity_id": "per_01M4VW9EPHP5K9ME66X2EAQJCR",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [],
+      "temporal_statements": [
+        {
+          "ref": "Neh.12.22",
+          "phrase": "in the reign of Darius the Persian",
+          "kind": "regnal"
+        }
+      ],
+      "related_passages": [],
+      "research_priority": "high",
+      "ambiguities": [
+        "Which Darius (II or III) is meant in 12:22.",
+        "\"Jonathan\" (12:11) for Johanan (12:22–23; Keil)."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VYR28KTH8QDD2K2H4WS98S"
+    },
+    {
+      "id": "cnd_01M4VYR28KBBD6ND4EH39EBA21",
+      "title": "The dedication of the wall: Levites gathered, purification, two thanksgiving choirs on the wall meeting at the temple, great sacrifices and joy; storerooms appointed",
+      "passage": "Neh.12.27-Neh.12.47",
+      "description": "Levites and singers were brought to Jerusalem; priests and Levites purified themselves, the people, the gates and the wall; Nehemiah set two great thanksgiving companies on the wall, one led by Ezra the scribe, going opposite ways to meet at the house of God; great sacrifices; the joy of Jerusalem was heard far off; men appointed over the storerooms for the portions of priests and Levites.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "religious",
+        "construction"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "I (Nehemiah)",
+          "matched_entity_id": "per_01M4VS7B1CFQTEKVYD0TDWK1CB",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Ezra the scribe",
+          "matched_entity_id": "per_01M4VW9EPHP5K9ME66X2EAQJCR",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [],
+      "related_passages": [
+        "Neh.3.1-Neh.3.32",
+        "2Chr.7.4-2Chr.7.10",
+        "Ezra.6.16-Ezra.6.18"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "The dedication is undated; Keil places it after the events of Neh 8–11."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VYR28KQKKZW05752REBDNB"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-nehemiah-11-13.md"
+}

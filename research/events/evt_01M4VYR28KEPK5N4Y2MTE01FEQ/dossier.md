@@ -1,0 +1,907 @@
+# Jerusalem repopulated: one in ten by lot (Neh 11)
+
+> **Status:** Preliminary research · research status `publishable` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Nehemiah 11:1–36 (narration)
+
+## Biblical account
+
+The leaders lived in Jerusalem; the rest cast lots to bring one in ten to live in the holy city, the other nine staying in the towns, and the people blessed those who volunteered. The chapter lists the heads of the province living in Jerusalem — of Judah (468 men of Perez), Benjamin (928), priests (822, 242 and 128), Levites (284) and gatekeepers (172) — and the villages of Judah from Beersheba to the Valley of Hinnom and of Benjamin from Geba onward.
+
+## Historical setting
+
+**Period:** After 445 BC
+
+Keil treats the lot-drawing as the execution of the resolve of 7:4, between the wall's completion and its dedication. [1]
+
+### Rulers
+
+- Artaxerxes I (Longimanus): King of Persia
+
+## Date and chronology
+
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → cst_01M4VW9ER7B2P8Z71MNRJAHNG0 → “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem”
+  - Latest bound from: —
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem” (Nehemiah 11:1) → `after` Jerusalem guarded under Hanani and Hananiah; the registry of the first returnees found (Neh 7:1–5); assumptions: Carries out the resolve of 7:4–5 (Keil).
+
+## Geography
+
+- Jerusalem (Jerusalem; confidence: certain)
+  - Pleiades representative point: certain [2]
+
+## Claims and evidence
+
+### Jerusalem was resettled by drawing one family in ten from the countryside.
+
+**Classification:** No independent corroboration found (machine proposed) · layer: evidence
+
+Known only from Nehemiah; consistent with the small Persian-period city described in the archaeology read for Neh 3.
+
+- *Context (indirect):* The execution of the resolve of 7:4. (on Neh 8–10 intro and 11:1–2) [1]
+
+## Related passages and events
+
+- this event → **preceded by** → Jerusalem guarded under Hanani and Hananiah; the registry of the first returnees found (Neh 7:1–5) (high): Carries out the resolve of 7:4–5.
+- this event → **thematic parallel** → 1 Chronicles 9:1–34 (medium): A parallel list of the inhabitants of Jerusalem.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik notes that the leaders settled first, and that volunteers gave up land and comfort to live in a struggling city. [3]
+
+## Unanswered questions and research gaps
+
+- 1 Chr 9 parallel not compared.
+- The relation of the Jerusalem list to 1 Chr 9 was not examined.
+
+## Sources
+
+1. Keil, C. F., Taylor, Sophia (trans.). Biblical Commentary on the Books of Ezra, Nehemiah, and Esther (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1873. <https://archive.org/details/booksofezranehem00keil> — *scholarly commentary; verification: claim checked*
+2. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
+3. Guzik, David. Nehemiah 11 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/nehemiah-11/> — *theological commentary; verification: claim checked*

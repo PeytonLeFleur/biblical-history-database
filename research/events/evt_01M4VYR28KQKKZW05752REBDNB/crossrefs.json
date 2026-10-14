@@ -1,0 +1,120 @@
+{
+  "event_id": "evt_01M4VYR28KQKKZW05752REBDNB",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Dung Gate",
+      "books_searched": 66,
+      "hits": [
+        "Neh.2.13",
+        "Neh.3.13",
+        "Neh.3.14",
+        "Neh.12.31"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4VYR296WA8AFSXMNB8AWA7W",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VYR28KQKKZW05752REBDNB"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VV9TG1Z6311516W23PHNGB"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The finished wall is dedicated.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VYR2961ME3T0TG0KDDKFH3",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VYR28KQKKZW05752REBDNB"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VT5TNJAJ8MVD2498VTKSG6"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The procession passes the gates repaired in Neh 3.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VYR29606DBGS6C6AKVVKCS",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VYR28KQKKZW05752REBDNB"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VYR28KEPK5N4Y2MTE01FEQ"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "Keil: the dedication follows the repopulation.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VYR296KXJQAM50Q76TAQT1",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VYR28KQKKZW05752REBDNB"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Deut.23.3-Deut.23.6"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "The law read \"on that day\" (13:1–2).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4VYR28NYZN0RT8KP5JCFV4Z",
+    "cst_01M4VYR28NYJ7CBTGSFXDV7G5J"
+  ]
+}

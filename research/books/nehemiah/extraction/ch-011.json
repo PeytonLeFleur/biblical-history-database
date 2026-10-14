@@ -1,0 +1,334 @@
+{
+  "book": "Neh",
+  "chapter": 11,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Neh.11.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.18",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.19",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.20",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.21",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.22",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.23",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.24",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.25",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.26",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.27",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.28",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.29",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.30",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.31",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.32",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.33",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.34",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.35",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Neh.11.36",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4VYR28KNW5TV823RQ5MT39D"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4VYR28KNW5TV823RQ5MT39D",
+      "title": "Jerusalem repopulated: leaders and one in ten by lot; residents of Jerusalem and the settlements of Judah and Benjamin",
+      "passage": "Neh.11.1-Neh.11.36",
+      "description": "The leaders lived in Jerusalem; the rest cast lots to bring one in ten to live in the holy city, and the people blessed volunteers; lists of the heads of Judah, Benjamin, priests, Levites and gatekeepers in Jerusalem, and of the villages of Judah (from Beersheba to the Valley of Hinnom) and Benjamin.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "social",
+        "migration",
+        "genealogical"
+      ],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [
+        {
+          "name_as_written": "Jerusalem",
+          "matched_entity_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [],
+      "related_passages": [
+        "Neh.7.4-Neh.7.5",
+        "1Chr.9.1-1Chr.9.34"
+      ],
+      "research_priority": "medium",
+      "ambiguities": [
+        "Parallel but differing list in 1 Chr 9."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4VYR28KEPK5N4Y2MTE01FEQ"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-nehemiah-11-13.md"
+}

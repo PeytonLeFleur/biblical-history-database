@@ -1,0 +1,185 @@
+{
+  "event_id": "evt_01M4VYR28KTH8QDD2K2H4WS98S",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Keil 1873, introduction to Nehemiah (local OCR)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Cowley 1923 on no. 30 (local OCR)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Josephus Ant. 11.7–8 (Gutenberg, local)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": false,
+      "not_applicable_reason": "No archaeological evidence bears on these events in the sources read."
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4VYR28RSDDJ349NC637TGN0",
+      "statement": "Johanan of the high-priestly line (Neh 12:22–23) was high priest in 408/407 BC.",
+      "layer": "evidence",
+      "passage": "Neh.12.22-Neh.12.23",
+      "classification": "strongly_supported",
+      "reasoning": "The Elephantine petition (Cowley 30, read directly in the Neh 1–2 unit) names Johanan the high priest in Jerusalem in the 17th year of Darius II; Josephus independently names John son of Judas (Joiada) son of Eliashib as high priest.",
+      "supporting_evidence": [
+        "evd_01M4VYR28R04DT864YSQ1VQPVJ",
+        "evd_01M4VYR28RBS4SPBADMPY50NVK"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4VYR28RD2HG0Z05CDPFPACB",
+      "statement": "\"Darius the Persian\" in Neh 12:22 is Darius II (424–404 BC), and the list does not reach the time of Alexander.",
+      "layer": "reconstruction",
+      "passage": "Neh.12.22",
+      "classification": "disputed",
+      "reasoning": "Keil argues for Darius II: 12:22 records one enrolment while Eliashib, Joiada, Johanan and the young Jaddua lived, and 12:11 names Jaddua only as a member of the line. Josephus makes Jaddua high priest when Alexander came (Ant. 11.8.5) and his father John contemporary with a Bagoses of \"another Artaxerxes\", which would put Jaddua's tenure under Darius III. Cowley calls 12:22–23 a later addition to the book. No direct evidence for Jaddua's dates was read.",
+      "supporting_evidence": [
+        "evd_01M4VYR28RGAVAMB0E5RCWZPX7"
+      ],
+      "counterevidence": [
+        "evd_01M4VYR28RH5ZE5MP0CG7KF5CY"
+      ],
+      "contextual_evidence": [
+        "evd_01M4VYR28RZD8SBJD1H06P6YMM"
+      ],
+      "limitations": [
+        "Samaria papyri and modern succession studies not read."
+      ],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4VYR28R04DT864YSQ1VQPVJ",
+      "claim_ids": [
+        "clm_01M4VYR28RSDDJ349NC637TGN0"
+      ],
+      "source_id": "src_01M4VS7B129TEW2DEZ1M9X13Y5",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Johanan the high priest in 408/407.",
+      "locator": "no. 30, l. 18 and p. 109",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "elephantine-papyri"
+    },
+    {
+      "id": "evd_01M4VYR28RBS4SPBADMPY50NVK",
+      "claim_ids": [
+        "clm_01M4VYR28RSDDJ349NC637TGN0"
+      ],
+      "source_id": "src_01M4VYR288G6J6YKJQG5NQMMTN",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "John, son of Judas, son of Eliashib, high priest.",
+      "locator": "Ant. 11.7.1",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus"
+    },
+    {
+      "id": "evd_01M4VYR28RGAVAMB0E5RCWZPX7",
+      "claim_ids": [
+        "clm_01M4VYR28RD2HG0Z05CDPFPACB"
+      ],
+      "source_id": "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Darius Nothus is meant; the Codomannus view rests on a mistake about 12:11.",
+      "locator": "Introduction to Nehemiah, pp. 146–148",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "keil-1873"
+    },
+    {
+      "id": "evd_01M4VYR28RH5ZE5MP0CG7KF5CY",
+      "claim_ids": [
+        "clm_01M4VYR28RD2HG0Z05CDPFPACB"
+      ],
+      "source_id": "src_01M4TTS0H16R2RHYVNTR09K9TR",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "Jaddua high priest when Alexander came to Jerusalem.",
+      "locator": "Ant. 11.8.5",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "josephus"
+    },
+    {
+      "id": "evd_01M4VYR28RZD8SBJD1H06P6YMM",
+      "claim_ids": [
+        "clm_01M4VYR28RD2HG0Z05CDPFPACB"
+      ],
+      "source_id": "src_01M4VS7B129TEW2DEZ1M9X13Y5",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Neh 12:22–23 a later addition, hardly by Nehemiah.",
+      "locator": "p. 109",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "elephantine-papyri"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Samaria (Wadi Daliyeh) papyri and modern studies of the high-priestly succession not consulted."
+  ]
+}

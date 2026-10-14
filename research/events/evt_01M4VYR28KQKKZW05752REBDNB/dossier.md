@@ -1,0 +1,913 @@
+# The dedication of the wall of Jerusalem (Neh 12:27–13:3)
+
+> **Status:** Researched — not human reviewed · research status `publishable` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Nehemiah 12:27–13:3 (narration)
+
+## Biblical account
+
+For the dedication Levites were sought from all their places and singers gathered from their villages around Jerusalem; priests and Levites purified themselves, the people, the gates and the wall. Nehemiah brought the princes of Judah onto the wall and appointed two great thanksgiving companies: one went right toward the Dung Gate with Ezra the scribe in front, the other left with Nehemiah, and both stood in the house of God. They offered great sacrifices and the joy of Jerusalem was heard far off. Men were appointed over the storerooms for the portions of priests and Levites. That day the law excluding Ammonites and Moabites was read and the mixed multitude separated.
+
+## Historical setting
+
+**Period:** Undated; after autumn 445 BC on Keil's reading
+
+Keil places the dedication after the events of chs. 8–11. Ezra's presence (12:36) bears on the disputed relation of Ezra and Nehemiah. [1]
+
+### Rulers
+
+- Artaxerxes I (Longimanus): King of Persia
+
+## Date and chronology
+
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+- **446 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4V10B62C0NDKBMER7XX1JX3|cst_01M4V10B62C0NDKBMER7XX1JX3#own-convention → cst_01M4VV9TG3CCFP6G5FCRBB70QJ → “At the dedication of the wall of Jerusalem”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “in the days of Nehemiah the governor”
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “At the dedication of the wall of Jerusalem” (Nehemiah 12:27) → `after` The wall completed on 25 Elul after fifty-two days (Neh 6:15–19); assumptions: Undated; Keil places it after the events of chs. 8–11.
+- “in the days of Nehemiah the governor” (Nehemiah 12:26) → `within_reign` reign of Artaxerxes I (Longimanus)
+
+## Geography
+
+- Jerusalem (Jerusalem; confidence: certain)
+  - Pleiades representative point: certain [2]
+
+## Competing reconstructions
+
+- **Soon after the wall's completion (445 or shortly after)** (C. F. Keil (1873)): The dedication follows the repopulation of ch. 11. [1]
+
+## Claims and evidence
+
+### The wall of Jerusalem was dedicated with processions on the wall by two choirs led by Ezra and Nehemiah.
+
+**Classification:** No independent corroboration found (machine proposed) · layer: evidence
+
+Known only from Nehemiah's memoir. The presence of Ezra (12:36) is bound up with the disputed relation of Ezra and Nehemiah; the route has not been mapped.
+
+- *Context (indirect):* Two thanksgiving choirs; joy heard far off. (on 12:31–43) [3]
+
+## Related passages and events
+
+- this event → **preceded by** → The wall completed on 25 Elul after fifty-two days (Neh 6:15–19) (high): The finished wall is dedicated.
+- this event → **thematic parallel** → The rebuilding of Jerusalem's wall and gates, section by section (Neh 3) (high): The procession passes the gates repaired in Neh 3.
+- this event → **preceded by** → Jerusalem repopulated: one in ten by lot (Neh 11) (medium): Keil: the dedication follows the repopulation.
+- this event → **thematic parallel** → Deuteronomy 23:3–6 (high): The law read "on that day" (13:1–2).
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik notes that the leaders purified themselves before the people and that the joy was heard far off. [3]
+
+## Unanswered questions and research gaps
+
+- The processional route and gates not mapped.
+
+## Sources
+
+1. Keil, C. F., Taylor, Sophia (trans.). Biblical Commentary on the Books of Ezra, Nehemiah, and Esther (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1873. <https://archive.org/details/booksofezranehem00keil> — *scholarly commentary; verification: claim checked*
+2. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
+3. Guzik, David. Nehemiah 12 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/nehemiah-12/> — *theological commentary; verification: claim checked*

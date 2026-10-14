@@ -1,0 +1,62 @@
+{
+  "id": "evt_01M4VYR28KDJ2ECY0BX52KSXKC",
+  "slug": "nehemiahs-second-term-reforms-neh-13",
+  "title": "Nehemiah's return and second-term reforms (Neh 13:4–31)",
+  "summary": "After going to Artaxerxes in his 32nd year (433/432 BC), Nehemiah returned to find Tobiah lodged in a temple chamber, the Levites unpaid, the Sabbath profaned and marriages with foreign women; he expelled Tobiah, restored the portions, closed the gates on the Sabbath and drove away a grandson of Eliashib who had married Sanballat's daughter.",
+  "is_fixture": false,
+  "candidate_ids": [
+    "cnd_01M4VYR28KP77SXW6PBDEEK7ET"
+  ],
+  "external_reason": null,
+  "is_period": false,
+  "literary_classification": "historical_narrative",
+  "narrative_mode": "narrated_occurrence",
+  "categories": [
+    "religious",
+    "political",
+    "social",
+    "economic"
+  ],
+  "priority": "high",
+  "research_status": "needs_review",
+  "publication_level": "researched",
+  "parent_event_id": null,
+  "mentions": [
+    {
+      "passage": "Neh.13.4-Neh.13.31",
+      "mention_type": "narration",
+      "notes": null
+    }
+  ],
+  "stages": {
+    "scripture_extraction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "historical_reconstruction": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "external_evidence": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "cross_referencing": {
+      "status": "complete",
+      "updated": "2026-10-13",
+      "reason": null
+    },
+    "publication_validation": {
+      "status": "complete",
+      "updated": "2026-10-14",
+      "reason": null
+    }
+  },
+  "revision": 1,
+  "created_at": "2026-10-13",
+  "updated_at": "2026-10-13",
+  "last_reviewed_at": null
+}

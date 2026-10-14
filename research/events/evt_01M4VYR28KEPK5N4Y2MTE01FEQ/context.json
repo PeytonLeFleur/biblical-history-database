@@ -1,0 +1,77 @@
+{
+  "event_id": "evt_01M4VYR28KEPK5N4Y2MTE01FEQ",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "The leaders lived in Jerusalem; the rest cast lots to bring one in ten to live in the holy city, the other nine staying in the towns, and the people blessed those who volunteered. The chapter lists the heads of the province living in Jerusalem — of Judah (468 men of Perez), Benjamin (928), priests (822, 242 and 128), Levites (284) and gatekeepers (172) — and the villages of Judah from Beersheba to the Valley of Hinnom and of Benjamin from Geba onward.",
+    "passage": "Neh.11.1-Neh.11.36"
+  },
+  "setting": {
+    "period": "After 445 BC",
+    "body": "Keil treats the lot-drawing as the execution of the resolve of 7:4, between the wall's completion and its dedication.",
+    "citations": [
+      "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V10B5D015P4Q8DKKCPSKC7",
+      "reign_id": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+      "role": "King of Persia",
+      "citations": []
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VYR28NYMMZTA69WH2MXNWH",
+      "subject": "evt_01M4VYR28KEPK5N4Y2MTE01FEQ",
+      "object": "evt_01M4VW9EPQ6Q1JG9M3XHWABPMQ",
+      "relation": "after",
+      "textual_assertion": "the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem",
+      "passage": "Neh.11.1",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Carries out the resolve of 7:4–5 (Keil)."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Jerusalem",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [],
+  "commentary": [
+    {
+      "source_id": "src_01M4VYR27SVR2V4S33T7Z7KHB8",
+      "layer": "interpretation",
+      "paraphrase": "Guzik notes that the leaders settled first, and that volunteers gave up land and comfort to live in a struggling city.",
+      "url": "https://enduringword.com/bible-commentary/nehemiah-11/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "The relation of the Jerusalem list to 1 Chr 9 was not examined."
+  ],
+  "not_applicable": {}
+}

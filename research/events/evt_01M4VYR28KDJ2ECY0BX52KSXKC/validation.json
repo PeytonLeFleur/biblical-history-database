@@ -1,0 +1,53 @@
+{
+  "event_id": "evt_01M4VYR28KDJ2ECY0BX52KSXKC",
+  "revision": 1,
+  "validated_at": "2026-10-14",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "publication_level": "researched",
+  "open_reviews": [
+    "rev_01M4VYR28Z1F0AQHYXXR9BRG0D"
+  ],
+  "research_gaps": [
+    "The Samaria papyri and modern studies of the Sanballat family not consulted."
+  ],
+  "disputes": [
+    "The son of Joiada who married Sanballat's daughter (Neh 13:28) is the Manasseh whom Josephus places under Darius III."
+  ],
+  "export_eligible": true
+}

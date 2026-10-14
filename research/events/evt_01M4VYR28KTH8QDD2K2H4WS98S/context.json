@@ -1,0 +1,87 @@
+{
+  "event_id": "evt_01M4VYR28KTH8QDD2K2H4WS98S",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Priests and Levites who came up with Zerubbabel and Jeshua; the line Jeshua, Joiakim, Eliashib, Joiada, Jonathan, Jaddua; the heads of priestly houses in the days of Joiakim; Levites and priests recorded in the days of Eliashib, Joiada, Johanan and Jaddua, in the reign of Darius the Persian; Levites written in the book of the chronicles to the days of Johanan son of Eliashib; the Levitical heads who served in the days of Joiakim, Nehemiah and Ezra.",
+    "passage": "Neh.12.1-Neh.12.26"
+  },
+  "setting": {
+    "period": "From 538 BC to the late fifth (or late fourth) century BC",
+    "body": "Johanan is high priest in 408/407 (Cowley 30). Keil takes \"Darius the Persian\" as Darius II (424–404) and the list of 12:22 as one enrolment while Eliashib, Joiada, Johanan and the young Jaddua were alive. Josephus makes Jaddua high priest under Darius III and Alexander; Cowley calls 12:22–23 a later addition.",
+    "citations": [
+      "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+      "src_01M4VS7B129TEW2DEZ1M9X13Y5",
+      "src_01M4VYR288G6J6YKJQG5NQMMTN"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V10B5D015P4Q8DKKCPSKC7",
+      "reign_id": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+      "role": "King of Persia",
+      "citations": []
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VYR28NFSRTZZKB8HXKGMTB",
+      "subject": "evt_01M4VYR28KTH8QDD2K2H4WS98S",
+      "object": "evt_01M4VV9TG1KKWHTSE0H187T9M5",
+      "relation": "after",
+      "textual_assertion": "in the days of Nehemiah the governor, and of Ezra the priest and scribe",
+      "passage": "Neh.12.26",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "The registers run from the first return to the days of Johanan/Jaddua; anchored here by the reference to Nehemiah's days."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Jerusalem",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "Jonathan (12:11)",
+      "gloss": "Read Johanan, as in 12:22–23 (Keil).",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    }
+  ],
+  "competing_reconstructions": [],
+  "commentary": [
+    {
+      "source_id": "src_01M4VYR27ZKDSCY8GNNQB861Q4",
+      "layer": "interpretation",
+      "paraphrase": "Guzik presents the lists without discussing the date of Jaddua or Darius.",
+      "url": "https://enduringword.com/bible-commentary/nehemiah-12/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "The Samaria (Wadi Daliyeh) papyri and modern studies of the high-priestly succession were not consulted."
+  ],
+  "not_applicable": {}
+}

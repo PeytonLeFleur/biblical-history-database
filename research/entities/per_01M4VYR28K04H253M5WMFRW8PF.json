@@ -1,0 +1,17 @@
+{
+  "kind": "person",
+  "id": "per_01M4VYR28K04H253M5WMFRW8PF",
+  "slug": "jaddua-high-priest",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+    "src_01M4VYR288G6J6YKJQG5NQMMTN",
+    "src_01M4TTS0H16R2RHYVNTR09K9TR"
+  ],
+  "notes": null,
+  "canonical_name": "Jaddua the high priest",
+  "aliases": [],
+  "description": "Last high priest named in the Hebrew Bible (Neh 12:11, 22), son of Johanan (Jonathan in 12:11). Josephus makes him high priest when Alexander came to Jerusalem; Keil argues that Neh 12 names him only as a member of the high-priestly house.",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+}

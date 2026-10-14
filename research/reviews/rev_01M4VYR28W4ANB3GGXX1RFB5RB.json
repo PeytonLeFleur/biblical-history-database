@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4VYR28W4ANB3GGXX1RFB5RB",
+  "record_kind": "claim",
+  "record_id": "clm_01M4VYR28RD2HG0Z05CDPFPACB",
+  "record_revision": 1,
+  "reason": "Disputed: is \"Darius the Persian\" of Neh 12:22 Darius II (Keil), or does the Jaddua notice reach the time of Darius III and Alexander (Josephus)?",
+  "triggers": [
+    "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-14T00:59:38.140Z",
+  "decisions": [],
+  "is_fixture": false
+}

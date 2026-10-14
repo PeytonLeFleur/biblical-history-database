@@ -1,0 +1,105 @@
+{
+  "event_id": "evt_01M4VYR28KQKKZW05752REBDNB",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "For the dedication Levites were sought from all their places and singers gathered from their villages around Jerusalem; priests and Levites purified themselves, the people, the gates and the wall. Nehemiah brought the princes of Judah onto the wall and appointed two great thanksgiving companies: one went right toward the Dung Gate with Ezra the scribe in front, the other left with Nehemiah, and both stood in the house of God. They offered great sacrifices and the joy of Jerusalem was heard far off. Men were appointed over the storerooms for the portions of priests and Levites. That day the law excluding Ammonites and Moabites was read and the mixed multitude separated.",
+    "passage": "Neh.12.27-Neh.13.3"
+  },
+  "setting": {
+    "period": "Undated; after autumn 445 BC on Keil's reading",
+    "body": "Keil places the dedication after the events of chs. 8–11. Ezra's presence (12:36) bears on the disputed relation of Ezra and Nehemiah.",
+    "citations": [
+      "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V10B5D015P4Q8DKKCPSKC7",
+      "reign_id": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+      "role": "King of Persia",
+      "citations": []
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VYR28NYZN0RT8KP5JCFV4Z",
+      "subject": "evt_01M4VYR28KQKKZW05752REBDNB",
+      "object": "evt_01M4VV9TG1Z6311516W23PHNGB",
+      "relation": "after",
+      "textual_assertion": "At the dedication of the wall of Jerusalem",
+      "passage": "Neh.12.27",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "undated",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Undated; Keil places it after the events of chs. 8–11."
+      ],
+      "citations": [],
+      "verification": "text_direct"
+    },
+    {
+      "id": "cst_01M4VYR28NYJ7CBTGSFXDV7G5J",
+      "subject": "evt_01M4VYR28KQKKZW05752REBDNB",
+      "object": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+      "relation": "within_reign",
+      "textual_assertion": "in the days of Nehemiah the governor",
+      "passage": "Neh.12.26",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "reign",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Jerusalem",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [],
+  "competing_reconstructions": [
+    {
+      "label": "Soon after the wall's completion (445 or shortly after)",
+      "proponents": [
+        "C. F. Keil (1873)"
+      ],
+      "summary": "The dedication follows the repopulation of ch. 11.",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4VYR27ZKDSCY8GNNQB861Q4",
+      "layer": "interpretation",
+      "paraphrase": "Guzik notes that the leaders purified themselves before the people and that the joy was heard far off.",
+      "url": "https://enduringword.com/bible-commentary/nehemiah-12/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}
