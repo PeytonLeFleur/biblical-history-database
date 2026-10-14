@@ -1,0 +1,37 @@
+{
+  "id": "src_01M4VYR27ZKDSCY8GNNQB861Q4",
+  "title": "Nehemiah 12 — Enduring Word Bible Commentary",
+  "source_type": "theological_commentary",
+  "authors": [
+    "Guzik, David"
+  ],
+  "publisher": "Enduring Word",
+  "journal": null,
+  "published_date": null,
+  "url": "https://enduringword.com/bible-commentary/nehemiah-12/",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": null,
+  "license": "Publisher copyright; paraphrased only (SPEC 5.4)",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-14",
+      "method": "Fetched and read the commentary on Nehemiah 12",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-14",
+      "method": "Priestly and Levitical lists; Levites gathered for the dedication; purification of priests, Levites, people, gates and wall; two thanksgiving choirs on the wall; joy heard far off; portions for priests and Levites",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": "Interpretive resource — not historical corroboration.",
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

@@ -1,0 +1,155 @@
+{
+  "event_id": "evt_01M4VYR28KTH8QDD2K2H4WS98S",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "Jaddua",
+      "books_searched": 66,
+      "hits": [
+        "Neh.10.21",
+        "Neh.12.11",
+        "Neh.12.22"
+      ]
+    },
+    {
+      "name": "Joiada",
+      "books_searched": 66,
+      "hits": [
+        "Neh.3.6",
+        "Neh.12.10",
+        "Neh.12.11",
+        "Neh.12.22",
+        "Neh.13.28"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4VYR291KZ5DWDVA2964C7CK",
+      "type": "genealogical_connection",
+      "from": {
+        "kind": "person",
+        "id": "per_01M4VT5TNJHKHAH0YZGRHEBGTZ"
+      },
+      "to": {
+        "kind": "person",
+        "id": "per_01M4VYR28E4C52QJPR5HQP9H42"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Eliashib begot Joiada (12:10).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VYR29146B8AH2V1GPBM9TA",
+      "type": "genealogical_connection",
+      "from": {
+        "kind": "person",
+        "id": "per_01M4VYR28E4C52QJPR5HQP9H42"
+      },
+      "to": {
+        "kind": "person",
+        "id": "per_01M4VS7B2DVMCBW1XZQ13TT97V"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Joiada begot Jonathan/Johanan (12:11, 22).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VYR291Q4D9VJ3Z9FR2XJ4M",
+      "type": "genealogical_connection",
+      "from": {
+        "kind": "person",
+        "id": "per_01M4VS7B2DVMCBW1XZQ13TT97V"
+      },
+      "to": {
+        "kind": "person",
+        "id": "per_01M4VYR28K04H253M5WMFRW8PF"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Jonathan/Johanan begot Jaddua (12:11).",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VYR291Q6MWAA607QFGTN12",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "person",
+        "id": "per_01M4VYR28K04H253M5WMFRW8PF"
+      },
+      "to": {
+        "kind": "person",
+        "id": "per_01M4TSKK8VW5AG2BZM9KZK8W3Y"
+      },
+      "confidence": "low",
+      "layer": "reconstruction",
+      "rationale": "Josephus (Ant. 11.8.5) makes Jaddua the high priest who met Alexander; disputed.",
+      "provenance": {
+        "method": "source_cited",
+        "dataset": null,
+        "citations": [
+          "src_01M4TTS0H16R2RHYVNTR09K9TR"
+        ]
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VYR291QTPKE8DVF043TMNG",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VYR28KTH8QDD2K2H4WS98S"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "Ezra.2.36-Ezra.2.42"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Priests and Levites of the first return.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4VYR28NFSRTZZKB8HXKGMTB"
+  ]
+}

@@ -1,0 +1,930 @@
+# The priestly and Levitical registers to the days of Jaddua (Neh 12:1–26)
+
+> **Status:** Preliminary research · research status `needs_review` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Nehemiah 12:1–26 (narration)
+
+## Biblical account
+
+Priests and Levites who came up with Zerubbabel and Jeshua; the line Jeshua, Joiakim, Eliashib, Joiada, Jonathan, Jaddua; the heads of priestly houses in the days of Joiakim; Levites and priests recorded in the days of Eliashib, Joiada, Johanan and Jaddua, in the reign of Darius the Persian; Levites written in the book of the chronicles to the days of Johanan son of Eliashib; the Levitical heads who served in the days of Joiakim, Nehemiah and Ezra.
+
+## Historical setting
+
+**Period:** From 538 BC to the late fifth (or late fourth) century BC
+
+Johanan is high priest in 408/407 (Cowley 30). Keil takes "Darius the Persian" as Darius II (424–404) and the list of 12:22 as one enrolment while Eliashib, Joiada, Johanan and the young Jaddua were alive. Josephus makes Jaddua high priest under Darius III and Alexander; Cowley calls 12:22–23 a later addition. [1, 2, 3]
+
+### Rulers
+
+- Artaxerxes I (Longimanus): King of Persia
+
+## Date and chronology
+
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+- **446 BC – ?** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the days of Nehemiah the governor, and of Ezra the priest and scribe”
+  - Latest bound from: —
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “in the days of Nehemiah the governor, and of Ezra the priest and scribe” (Nehemiah 12:26) → `after` Nehemiah's first governorship: twelve years, 20th–32nd year of Artaxerxes (445–433 BC); assumptions: The registers run from the first return to the days of Johanan/Jaddua; anchored here by the reference to Nehemiah's days.
+
+## Geography
+
+- Jerusalem (Jerusalem; confidence: certain)
+  - Pleiades representative point: certain [4]
+
+## Claims and evidence
+
+### Johanan of the high-priestly line (Neh 12:22–23) was high priest in 408/407 BC.
+
+**Classification:** Strongly supported (machine proposed) · layer: evidence
+
+The Elephantine petition (Cowley 30, read directly in the Neh 1–2 unit) names Johanan the high priest in Jerusalem in the 17th year of Darius II; Josephus independently names John son of Judas (Joiada) son of Eliashib as high priest.
+
+- *Supporting (direct):* Johanan the high priest in 408/407. (no. 30, l. 18 and p. 109) [2]
+- *Supporting (indirect):* John, son of Judas, son of Eliashib, high priest. (Ant. 11.7.1) [3]
+
+### "Darius the Persian" in Neh 12:22 is Darius II (424–404 BC), and the list does not reach the time of Alexander.
+
+**Classification:** Disputed (requires review) · layer: reconstruction
+
+Keil argues for Darius II: 12:22 records one enrolment while Eliashib, Joiada, Johanan and the young Jaddua lived, and 12:11 names Jaddua only as a member of the line. Josephus makes Jaddua high priest when Alexander came (Ant. 11.8.5) and his father John contemporary with a Bagoses of "another Artaxerxes", which would put Jaddua's tenure under Darius III. Cowley calls 12:22–23 a later addition to the book. No direct evidence for Jaddua's dates was read.
+
+- *Supporting (indirect):* Darius Nothus is meant; the Codomannus view rests on a mistake about 12:11. (Introduction to Nehemiah, pp. 146–148) [1]
+- *Challenging (indirect):* Jaddua high priest when Alexander came to Jerusalem. (Ant. 11.8.5) [5]
+- *Context (indirect):* Neh 12:22–23 a later addition, hardly by Nehemiah. (p. 109) [2]
+
+*Limitations:* Samaria papyri and modern succession studies not read.
+
+## Related passages and events
+
+- Eliashib the high priest → **genealogical connection** → Joiada the high priest (high): Eliashib begot Joiada (12:10).
+- Joiada the high priest → **genealogical connection** → Johanan the high priest (high): Joiada begot Jonathan/Johanan (12:11, 22).
+- Johanan the high priest → **genealogical connection** → Jaddua the high priest (high): Jonathan/Johanan begot Jaddua (12:11).
+- Jaddua the high priest → **thematic parallel** → Alexander the Great (low): Josephus (Ant. 11.8.5) makes Jaddua the high priest who met Alexander; disputed. [5]
+- this event → **thematic parallel** → Ezra 2:36–42 (high): Priests and Levites of the first return.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik presents the lists without discussing the date of Jaddua or Darius. [6]
+
+## Unanswered questions and research gaps
+
+- Samaria (Wadi Daliyeh) papyri and modern studies of the high-priestly succession not consulted.
+- The Samaria (Wadi Daliyeh) papyri and modern studies of the high-priestly succession were not consulted.
+
+## Disputes
+
+- "Darius the Persian" in Neh 12:22 is Darius II (424–404 BC), and the list does not reach the time of Alexander.
+
+## Sources
+
+1. Keil, C. F., Taylor, Sophia (trans.). Biblical Commentary on the Books of Ezra, Nehemiah, and Esther (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1873. <https://archive.org/details/booksofezranehem00keil> — *scholarly commentary; verification: claim checked*
+2. Cowley, A. E.. Aramaic Papyri of the Fifth Century B.C.. Clarendon Press, Oxford, 1923. <https://archive.org/details/aramaicpapyrioff00ahikuoft> — *academic monograph; verification: claim checked*
+3. Josephus, Whiston, William (trans.). Josephus, Antiquities 11.7.1–11.8.4 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*
+4. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
+5. Josephus, Whiston, William (trans.). Josephus, Antiquities 11.8.5 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*
+6. Guzik, David. Nehemiah 12 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/nehemiah-12/> — *theological commentary; verification: claim checked*

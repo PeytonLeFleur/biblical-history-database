@@ -1,0 +1,69 @@
+{
+  "event_id": "evt_01M4VYR28KEPK5N4Y2MTE01FEQ",
+  "status": "complete",
+  "resume_from": null,
+  "name_searches": [
+    {
+      "name": "cast lots (Nehemiah)",
+      "books_searched": 66,
+      "hits": [
+        "Neh.10.34",
+        "Neh.11.1"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_01M4VYR28ZGBMYTN95BKM2DQAJ",
+      "type": "preceded_by",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VYR28KEPK5N4Y2MTE01FEQ"
+      },
+      "to": {
+        "kind": "event",
+        "id": "evt_01M4VW9EPQ6Q1JG9M3XHWABPMQ"
+      },
+      "confidence": "high",
+      "layer": "text",
+      "rationale": "Carries out the resolve of 7:4–5.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "researched",
+      "review_required": false
+    },
+    {
+      "id": "rel_01M4VYR28ZQ066KE40090B2KY4",
+      "type": "thematic_parallel",
+      "from": {
+        "kind": "event",
+        "id": "evt_01M4VYR28KEPK5N4Y2MTE01FEQ"
+      },
+      "to": {
+        "kind": "passage",
+        "ref": "1Chr.9.1-1Chr.9.34"
+      },
+      "confidence": "medium",
+      "layer": "text",
+      "rationale": "A parallel list of the inhabitants of Jerusalem.",
+      "provenance": {
+        "method": "text_reading",
+        "dataset": null,
+        "citations": []
+      },
+      "interpretive_approach": null,
+      "proposed_by": null,
+      "target_research_state": "unresearched",
+      "review_required": false
+    }
+  ],
+  "entity_resolutions": [],
+  "new_constraints": [
+    "cst_01M4VYR28NYMMZTA69WH2MXNWH"
+  ]
+}

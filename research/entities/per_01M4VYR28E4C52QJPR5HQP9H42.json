@@ -1,0 +1,23 @@
+{
+  "kind": "person",
+  "id": "per_01M4VYR28E4C52QJPR5HQP9H42",
+  "slug": "joiada-high-priest",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+    "src_01M4VYR288G6J6YKJQG5NQMMTN"
+  ],
+  "notes": null,
+  "canonical_name": "Joiada the high priest",
+  "aliases": [
+    {
+      "alias": "Judas",
+      "language": "Greek",
+      "source_id": "src_01M4VYR288G6J6YKJQG5NQMMTN",
+      "passage": null
+    }
+  ],
+  "description": "Son of Eliashib and father of Johanan in the high-priestly line (Neh 12:10–11, 22); one of his sons married a daughter of Sanballat and was driven away by Nehemiah (13:28). Josephus calls him Judas.",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+}

@@ -1,0 +1,130 @@
+{
+  "event_id": "evt_01M4VYR28KDJ2ECY0BX52KSXKC",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "Before this, Eliashib the priest, related to Tobiah, had prepared him a great chamber in the temple courts where offerings and tithes were stored; Nehemiah was absent, having gone to Artaxerxes in his thirty-second year. Returning by leave, he threw out Tobiah's goods and restored the vessels; found the Levites' portions unpaid and appointed treasurers; stopped Judeans treading winepresses and Tyrians selling on the Sabbath, shutting the gates; found Jews married to women of Ashdod, Ammon and Moab whose children could not speak the language of Judah, and made them swear; and drove away a son of Joiada son of Eliashib, son-in-law of Sanballat the Horonite. \"Remember me, my God, for good.\"",
+    "passage": "Neh.13.4-Neh.13.31"
+  },
+  "setting": {
+    "period": "After 433/432 BC (before 424 BC)",
+    "body": "The thirty-second year of Artaxerxes I is 433 BC on Cowley's Elephantine argument; the return came \"after some days\" under the same king.",
+    "citations": [
+      "src_01M4VS7B129TEW2DEZ1M9X13Y5"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V10B5D015P4Q8DKKCPSKC7",
+      "reign_id": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+      "role": "King of Persia",
+      "citations": []
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+    "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4VYR28NX3NAH58D72QJVX2M",
+      "subject": "evt_01M4VYR28KDJ2ECY0BX52KSXKC",
+      "object": "evt_01M4VV9TG1KKWHTSE0H187T9M5",
+      "relation": "years_later",
+      "textual_assertion": "in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king",
+      "passage": "Neh.13.6",
+      "offset": {
+        "min": 12,
+        "max": 21
+      },
+      "unit": "years",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "year",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "The governorship began in year 20; Nehemiah left in year 32 and returned \"after some days\" with leave of the same king, so before Artaxerxes I's death in his 41st year (424). Cowley fixes the 32nd year as 433 BC."
+      ],
+      "citations": [
+        "src_01M4VS7B129TEW2DEZ1M9X13Y5"
+      ],
+      "verification": "source_checked"
+    },
+    {
+      "id": "cst_01M4VYR28NXPCX8M5RTF02Y62T",
+      "subject": "evt_01M4VYR28KDJ2ECY0BX52KSXKC",
+      "object": "rgn_01M4V10B5N3Y4B7E4MKVTJ3FHD",
+      "relation": "within_reign",
+      "textual_assertion": "I asked leave of the king",
+      "passage": "Neh.13.6",
+      "offset": null,
+      "unit": null,
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "reign",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4RPJVYJBSM1B9Q1YS2E4NQP",
+      "role": "Jerusalem",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "Artaxerxes king of Babylon (13:6)",
+      "gloss": "The Persian king, titled by his rule over Babylon.",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    }
+  ],
+  "competing_reconstructions": [
+    {
+      "label": "Joiada's son = Josephus's Manasseh, misdated by Josephus",
+      "proponents": [
+        "C. F. Keil (1873)",
+        "A. Cowley (1923)"
+      ],
+      "summary": "The same marriage; Josephus confused Darius II with Darius III and moved it a century late.",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+        "src_01M4VS7B129TEW2DEZ1M9X13Y5"
+      ]
+    },
+    {
+      "label": "Two Sanballats, two marriages",
+      "proponents": [
+        "Older theologians and Petermann (as reported by Keil)"
+      ],
+      "summary": "A separate, later Sanballat under Darius III; rejected as improbable by Keil and as \"too desperate\" by Cowley.",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "source_id": "src_01M4VYR2832GKF929M7YAC6NNP",
+      "layer": "interpretation",
+      "paraphrase": "Guzik observes that the people had broken the covenant's main pledges within some years, showing the limits of vows without grace.",
+      "url": "https://enduringword.com/bible-commentary/nehemiah-13/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [],
+  "not_applicable": {}
+}

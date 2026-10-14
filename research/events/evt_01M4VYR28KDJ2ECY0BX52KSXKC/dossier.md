@@ -1,0 +1,934 @@
+# Nehemiah's return and second-term reforms (Neh 13:4–31)
+
+> **Status:** Researched — not human reviewed · research status `needs_review` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Nehemiah 13:4–31 (narration)
+
+## Biblical account
+
+Before this, Eliashib the priest, related to Tobiah, had prepared him a great chamber in the temple courts where offerings and tithes were stored; Nehemiah was absent, having gone to Artaxerxes in his thirty-second year. Returning by leave, he threw out Tobiah's goods and restored the vessels; found the Levites' portions unpaid and appointed treasurers; stopped Judeans treading winepresses and Tyrians selling on the Sabbath, shutting the gates; found Jews married to women of Ashdod, Ammon and Moab whose children could not speak the language of Judah, and made them swear; and drove away a son of Joiada son of Eliashib, son-in-law of Sanballat the Horonite. "Remember me, my God, for good."
+
+## Historical setting
+
+**Period:** After 433/432 BC (before 424 BC)
+
+The thirty-second year of Artaxerxes I is 433 BC on Cowley's Elephantine argument; the return came "after some days" under the same king. [1]
+
+### Rulers
+
+- Artaxerxes I (Longimanus): King of Persia
+
+## Date and chronology
+
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+- **434 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: cst_01M4VV9TG3FXDN6QK0PYM3XDQQ|cst_01M4VV9TG3FXDN6QK0PYM3XDQQ#own-convention → “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “I asked leave of the king”
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king” (Nehemiah 13:6) → `years_later` Nehemiah's first governorship: twelve years, 20th–32nd year of Artaxerxes (445–433 BC); assumptions: The governorship began in year 20; Nehemiah left in year 32 and returned "after some days" with leave of the same king, so before Artaxerxes I's death in his 41st year (424). Cowley fixes the 32nd year as 433 BC. [1]
+- “I asked leave of the king” (Nehemiah 13:6) → `within_reign` reign of Artaxerxes I (Longimanus)
+
+## Geography
+
+- Jerusalem (Jerusalem; confidence: certain)
+  - Pleiades representative point: certain [2]
+
+## Competing reconstructions
+
+- **Joiada's son = Josephus's Manasseh, misdated by Josephus** (C. F. Keil (1873), A. Cowley (1923)): The same marriage; Josephus confused Darius II with Darius III and moved it a century late. [3, 1]
+- **Two Sanballats, two marriages** (Older theologians and Petermann (as reported by Keil)): A separate, later Sanballat under Darius III; rejected as improbable by Keil and as "too desperate" by Cowley. [3]
+
+## Claims and evidence
+
+### Nehemiah left Jerusalem for the king in 433/432 BC (Artaxerxes I year 32) and later returned for a second term.
+
+**Classification:** Historically plausible (machine proposed) · layer: reconstruction
+
+Neh 13:6 dates the departure; Cowley fixes the 32nd year as Artaxerxes I = 433 because Bigvai governed Judah by 408. The length of the absence is unknown.
+
+- *Supporting (indirect):* The 32nd year must be Artaxerxes I, 433 BC. (p. 109) [1]
+
+### The son of Joiada who married Sanballat's daughter (Neh 13:28) is the Manasseh whom Josephus places under Darius III.
+
+**Classification:** Disputed (requires review) · layer: reconstruction
+
+Keil and Cowley both identify the incidents and attribute Josephus's setting to his chronological errors (he calls Sanballat's sender "Darius, the last king", makes Manasseh a brother of Jaddua, and has Sanballat die in 332, though his sons acted for him by 408). Older theologians and Petermann (as reported by Keil) proposed a second Sanballat with a second marriage. Josephus himself (read directly) sets the marriage in the reign of Darius III.
+
+- *Supporting (indirect):* The same occurrence; two Sanballats very improbable. (on 13:28) [3]
+- *Supporting (indirect):* Josephus confused Darius II and III; the two-Sanballat view "too desperate". (pp. 109–110) [1]
+- *Challenging (direct):* Manasseh, Jaddua's brother, married Nicaso, Sanballat's daughter, under Darius the last king. (Ant. 11.7.2; 11.8.2) [4]
+
+*Limitations:* Samaria (Wadi Daliyeh) papyri not consulted.
+
+## Related passages and events
+
+- this event → **preceded by** → Nehemiah's first governorship: twelve years, 20th–32nd year of Artaxerxes (445–433 BC) (high): The first governorship ended with the return to the king in year 32.
+- this event → **thematic parallel** → The sealed covenant to keep the law and support the temple (Neh 9:38–10:39) (high): The reforms deal with the covenant's pledges (marriage, Sabbath, wood, tithes).
+- this event → **thematic parallel** → The mixed-marriages crisis: Ezra's confession, the assembly in the rain (20/IX) and the commission (Ezra 9–10) (high): Mixed marriages confronted again.
+- this event → **thematic parallel** → Malachi 2:10–16 (medium): Malachi on marrying the daughter of a foreign god.
+- this event → **thematic parallel** → Malachi 3:8–10 (medium): Malachi on withheld tithes.
+- this event → **thematic parallel** → Jeremiah 17:21–27 (high): Jeremiah's warning on Sabbath burdens through the gates.
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik observes that the people had broken the covenant's main pledges within some years, showing the limits of vows without grace. [5]
+
+## Unanswered questions and research gaps
+
+- The Samaria papyri and modern studies of the Sanballat family not consulted.
+
+## Disputes
+
+- The son of Joiada who married Sanballat's daughter (Neh 13:28) is the Manasseh whom Josephus places under Darius III.
+
+## Sources
+
+1. Cowley, A. E.. Aramaic Papyri of the Fifth Century B.C.. Clarendon Press, Oxford, 1923. <https://archive.org/details/aramaicpapyrioff00ahikuoft> — *academic monograph; verification: claim checked*
+2. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
+3. Keil, C. F., Taylor, Sophia (trans.). Biblical Commentary on the Books of Ezra, Nehemiah, and Esther (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1873. <https://archive.org/details/booksofezranehem00keil> — *scholarly commentary; verification: claim checked*
+4. Josephus, Whiston, William (trans.). Josephus, Antiquities 11.7.1–11.8.4 (trans. W. Whiston). Project Gutenberg #2848. <https://www.gutenberg.org/ebooks/2848> — *ancient primary text; verification: claim checked*
+5. Guzik, David. Nehemiah 13 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/nehemiah-13/> — *theological commentary; verification: claim checked*
