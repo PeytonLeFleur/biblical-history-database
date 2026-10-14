@@ -1,0 +1,24 @@
+{
+  "kind": "person",
+  "id": "per_01M4W50S9RTTQN3RVR8N4C01C0",
+  "slug": "esther-queen",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+    "src_01M4W50S946AV8YAVDZMQ1HP9Z",
+    "src_01M4W50S9AVRVQ1RSQXKRMF4V8"
+  ],
+  "notes": null,
+  "canonical_name": "Esther (Hadassah)",
+  "aliases": [
+    {
+      "alias": "Hadassah",
+      "language": "Hebrew",
+      "source_id": null,
+      "passage": "Esth.2.7"
+    }
+  ],
+  "description": "Jewish orphan, cousin and ward of Mordecai, made queen of Ahasuerus (Xerxes) in Tebeth of his seventh year (Esth 2:7, 16–17). Not named in Greek sources, which call Xerxes's wife Amestris.",
+  "kingdom_id": "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+}

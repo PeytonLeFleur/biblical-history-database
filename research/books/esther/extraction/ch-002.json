@@ -1,0 +1,294 @@
+{
+  "book": "Esth",
+  "chapter": 2,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Esth.2.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W50SA63T98MVEWNT7EM2YS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.2.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W50SA63T98MVEWNT7EM2YS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.2.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W50SA63T98MVEWNT7EM2YS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.2.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W50SA63T98MVEWNT7EM2YS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.2.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W50SA63T98MVEWNT7EM2YS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.2.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W50SA63T98MVEWNT7EM2YS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.2.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W50SA63T98MVEWNT7EM2YS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.2.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W50SA63T98MVEWNT7EM2YS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.2.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W50SA63T98MVEWNT7EM2YS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.2.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W50SA63T98MVEWNT7EM2YS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.2.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W50SA63T98MVEWNT7EM2YS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.2.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W50SA63T98MVEWNT7EM2YS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.2.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W50SA63T98MVEWNT7EM2YS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.2.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W50SA63T98MVEWNT7EM2YS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.2.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W50SA63T98MVEWNT7EM2YS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.2.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W50SA63T98MVEWNT7EM2YS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.2.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W50SA63T98MVEWNT7EM2YS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.2.18",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W50SA63T98MVEWNT7EM2YS"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.2.19",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W50SA68NRACTSVFH79Q46K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.2.20",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W50SA68NRACTSVFH79Q46K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.2.21",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W50SA68NRACTSVFH79Q46K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.2.22",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W50SA68NRACTSVFH79Q46K"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Esth.2.23",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W50SA68NRACTSVFH79Q46K"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4W50SA63T98MVEWNT7EM2YS",
+      "title": "Young women gathered to Hegai; Mordecai and Hadassah (Esther); Esther taken to the king in Tebeth of the seventh year and made queen",
+      "passage": "Esth.2.1-Esth.2.18",
+      "description": "Virgins were gathered to the harem under Hegai; Mordecai son of Jair, a Benjamite of the family of Kish carried away with Jeconiah, had raised his cousin Hadassah; she concealed her people, found favour, and in Tebeth of the seventh year was made queen in Vashti's place, with a feast and a remission.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "political",
+        "social"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Esther",
+          "matched_entity_id": "per_01M4W50S9RTTQN3RVR8N4C01C0",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Mordecai",
+          "matched_entity_id": "per_01M4W50S9Z08YHEY3ZW19N32AD",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "King Ahasuerus",
+          "matched_entity_id": "per_01M4V26XGRRNK70YK6ZWR2NB6W",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Shushan the citadel",
+          "matched_entity_id": "loc_01M4TTS0HF7XKVH1VBRM0K0TFS",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [
+        {
+          "ref": "Esth.2.16",
+          "phrase": "in the tenth month, which is the month Tebeth, in the seventh year of his reign",
+          "kind": "regnal"
+        }
+      ],
+      "related_passages": [
+        "2Kgs.24.10-2Kgs.24.16",
+        "1Sam.9.1-1Sam.9.2"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [
+        "Whether Mordecai or his ancestor Kish was carried away with Jeconiah (2:6)."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4W50SA6QTD95YT1WQ88AJR3"
+    },
+    {
+      "id": "cnd_01M4W50SA68NRACTSVFH79Q46K",
+      "title": "Mordecai at the king's gate uncovers the plot of Bigthan and Teresh; recorded in the chronicles",
+      "passage": "Esth.2.19-Esth.2.23",
+      "description": "When the virgins were gathered a second time, Mordecai learned that two doorkeepers, Bigthan and Teresh, sought to kill the king; Esther told the king in Mordecai's name; they were hanged and it was written in the book of the chronicles.",
+      "record_type": "event",
+      "literary_classification": "historical_narrative",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [
+        "political"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Mordecai",
+          "matched_entity_id": "per_01M4W50S9Z08YHEY3ZW19N32AD",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "Esther the queen",
+          "matched_entity_id": "per_01M4W50S9RTTQN3RVR8N4C01C0",
+          "proposed_new_entity": false
+        },
+        {
+          "name_as_written": "King Ahasuerus",
+          "matched_entity_id": "per_01M4V26XGRRNK70YK6ZWR2NB6W",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "the king's gate",
+          "matched_entity_id": "loc_01M4TTS0HF7XKVH1VBRM0K0TFS",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [],
+      "related_passages": [],
+      "research_priority": "medium",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4W50SA60G01DQZ75H0QRSC5"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-esther-1-2.md"
+}

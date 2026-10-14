@@ -1,0 +1,902 @@
+# Mordecai uncovers the plot of Bigthan and Teresh (Esth 2:19–23)
+
+> **Status:** Preliminary research · research status `publishable` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Esther 2:19–23 (narration)
+
+## Biblical account
+
+When the virgins were gathered a second time, Mordecai sat at the king's gate; Esther still had not revealed her people. Bigthan and Teresh, two eunuchs who kept the door, sought to kill the king; Mordecai learned of it and told Esther, who told the king in his name. It was investigated, both were hanged, and it was written in the book of the chronicles before the king.
+
+## Historical setting
+
+**Period:** After Esther's elevation (479/478 BC or later)
+
+The recording in the royal chronicles prepares for Esth 6:1–3. [1]
+
+### Rulers
+
+- Xerxes I: King of Persia (Ahasuerus) [1]
+
+## Date and chronology
+
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *model-independent*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+- **479 BC – 464 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: undated
+  - Earliest bound from: cst_01M4W50SA87MZ61NCEF2J9AEXH|cst_01M4W50SA87MZ61NCEF2J9AEXH#own-convention → “When the virgins were gathered together the second time … In those days”
+  - Latest bound from: reign of Xerxes I (reign end) → “two of the king's eunuchs … sought to lay hands on the King Ahasuerus”
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “When the virgins were gathered together the second time … In those days” (Esther 2:19–21) → `after` Esther made queen in Tebeth of Xerxes's seventh year (Esth 2:1–18; winter 479/478 BC)
+- “two of the king's eunuchs … sought to lay hands on the King Ahasuerus” (Esther 2:21) → `within_reign` reign of Xerxes I
+
+## Geography
+
+- Susa (Shushan) (Susa (Shushan the citadel); confidence: certain)
+  - Susa (Pleiades 912936): certain [2]
+
+## Claims and evidence
+
+### Two royal doorkeepers plotted against Xerxes and were executed after Mordecai's warning.
+
+**Classification:** No independent corroboration found (machine proposed) · layer: evidence
+
+Known only from Esther; no external record of this plot was found in the sources read.
+
+- *Context (indirect):* An incident important for the later narrative. (on 2:19–23) [1]
+
+## Related passages and events
+
+- this event → **preceded by** → Esther made queen in Tebeth of Xerxes's seventh year (Esth 2:1–18; winter 479/478 BC) (high): After Esther's elevation.
+- this event → **thematic parallel** → Esther 6:1–3 (high): The record of Mordecai's deed read to the sleepless king.
+
+## Unanswered questions and research gaps
+
+- Xerxes was eventually assassinated (465) in a palace plot; the sources read do not connect it with this episode.
+
+## Sources
+
+1. Keil, C. F., Taylor, Sophia (trans.). Biblical Commentary on the Books of Ezra, Nehemiah, and Esther (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1873. <https://archive.org/details/booksofezranehem00keil> — *scholarly commentary; verification: claim checked*
+2. Pleiades contributors. Susa/Seleucia ad Eulaeum — Pleiades place 912936. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/912936> — *institutional database; verification: claim checked*

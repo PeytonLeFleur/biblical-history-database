@@ -1,0 +1,38 @@
+{
+  "id": "src_01M4W50S9AVRVQ1RSQXKRMF4V8",
+  "title": "Herodotus, Histories 7.8, 7.20, 7.61; 9.33; 9.108–113 (trans. G. C. Macaulay)",
+  "source_type": "ancient_primary_text",
+  "authors": [
+    "Herodotus",
+    "Macaulay, G. C. (trans.)"
+  ],
+  "publisher": "Project Gutenberg #2456",
+  "journal": null,
+  "published_date": null,
+  "url": "https://www.gutenberg.org/ebooks/2456",
+  "doi": null,
+  "isbn": null,
+  "standard_reference": "Herodotus, Histories 7.8, 7.20, 7.61; 9.33; 9.108–113",
+  "license": "Public domain",
+  "verification_level": "claim_checked",
+  "verification_log": [
+    {
+      "level": "source_accessed",
+      "date": "2026-10-14",
+      "method": "Read in the downloaded Gutenberg text (volume 2)",
+      "notes": null
+    },
+    {
+      "level": "claim_checked",
+      "date": "2026-10-14",
+      "method": "7.8: after reconquering Egypt Xerxes summoned the chief Persians to consult on the expedition against Greece; 7.20: four full years of preparation after Egypt; 7.61: Otanes \"the father of Amestris the wife of Xerxes\"; 9.108–113: Amestris, Xerxes's wife, at Sardis and Susa after the defeat; 9.33: Hegias is the brother of the Elean seer Tisamenus, not a royal eunuch",
+      "notes": null
+    }
+  ],
+  "accessed_at": null,
+  "access_notes": null,
+  "reports_on_source_id": null,
+  "outlet": null,
+  "retraction_status": null,
+  "is_fixture": false
+}

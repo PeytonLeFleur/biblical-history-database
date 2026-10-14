@@ -1,0 +1,70 @@
+{
+  "kind": "reign",
+  "id": "rgn_01M4W50S9H597M5GWGYJWYY4SE",
+  "slug": "xerxes-i-reign",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4TPW4B43MDDS6CJYXV48RHN"
+  ],
+  "notes": "Babylonian (Nisan) reckoning: year 1 began 6 Apr 485; year 3 began 14 Apr 483; year 7 began 31 Mar 479 (Tebeth, month X, from 22 Dec 479); year 12 began 5 Apr 474 (Parker & Dubberstein, p. 30).",
+  "person_id": "per_01M4V26XGRRNK70YK6ZWR2NB6W",
+  "kingdom_id": "kgd_01M4RSRHM0VQXGKTB562DXF9VS",
+  "model_id": null,
+  "title": "King of Persia (Babylonian dating)",
+  "start": {
+    "earliest": -485,
+    "latest": -485
+  },
+  "end": {
+    "earliest": -464,
+    "latest": -463
+  },
+  "precision": "day",
+  "is_coregency": false,
+  "coregent_with_reign_id": null,
+  "predecessor_reign_id": "rgn_01M4V10B5QX2BKYBG6BJBKPKVH",
+  "stated_length_years": null,
+  "stated_length_passage": null,
+  "start_window": {
+    "from": {
+      "year": -485,
+      "month": 9,
+      "day": 30
+    },
+    "to": {
+      "year": -485,
+      "month": 12,
+      "day": 1
+    },
+    "basis": "Last firm tablet of Darius I 30 Sep 486 (a damaged one of 7? Nov 486); first tablet of Xerxes's accession year 1 Dec 486 (Parker & Dubberstein 1942, pp. 14–15): Darius died in November 486.",
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN"
+    ]
+  },
+  "end_window": {
+    "from": {
+      "year": -464,
+      "month": 3,
+      "day": 25
+    },
+    "to": {
+      "year": -463,
+      "month": 1,
+      "day": 3
+    },
+    "basis": "An unpublished Persepolis text of Xerxes's year 20, months X–XII (XII ended 24 Mar 465); Cowley 6 is dated \"year 21, the accession year of Artaxerxes\" (3 Jan 464) (Parker & Dubberstein 1942, p. 15).",
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "src_01M4VS7B129TEW2DEZ1M9X13Y5"
+    ]
+  },
+  "regnal_convention": {
+    "reckoning": "accession",
+    "new_year": "nisan",
+    "alternative_group": null,
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN"
+    ]
+  }
+}

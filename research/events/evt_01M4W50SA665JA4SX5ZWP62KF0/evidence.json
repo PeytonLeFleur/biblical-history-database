@@ -1,0 +1,192 @@
+{
+  "event_id": "evt_01M4W50SA665JA4SX5ZWP62KF0",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Esther 1",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Keil 1873 on Esther 1 (local OCR)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Herodotus 7.8, 7.20 (Gutenberg, local)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "P&D Xerxes table (local OCR)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": false,
+      "not_applicable_reason": "Susa excavation reports not read in this unit."
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Calendar conversion from Parker & Dubberstein."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4W50SA9P0ZCF8QJ13MG7HN4",
+      "statement": "The Ahasuerus of Esther is Xerxes I (486–465 BC).",
+      "layer": "reconstruction",
+      "passage": "Esth.1.1",
+      "classification": "historically_plausible",
+      "reasoning": "Keil argues from the name (Old Persian Khshayarsha) and from the empire \"from India to Cush\", which Herodotus confirms for Xerxes (7.9, 7.97–98 as cited by Keil); Guzik agrees. The Septuagint and Josephus read Artaxerxes. The identification rests on name and setting; no external text mentions the events.",
+      "supporting_evidence": [
+        "evd_01M4W50SA9DZPAC5G6MMBM85E8"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4W50SA9PTTWGH11QY99JX1R"
+      ],
+      "limitations": [
+        "The Old Persian name form is reported by Keil, not checked against an inscription edition."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4W50SA9GGGV926XTF60N3FT",
+      "statement": "Xerxes held a council of his nobles about the Greek expedition after reconquering Egypt, in the years before 480 BC.",
+      "layer": "evidence",
+      "passage": null,
+      "classification": "strongly_supported",
+      "reasoning": "Herodotus (read directly) records the council (7.8) and four years of preparation (7.20); Parker & Dubberstein place Xerxes's third year from April 483. Keil compares the 180-day assembly of Esth 1:3–4 with this council; that comparison is interpretive.",
+      "supporting_evidence": [
+        "evd_01M4W50SA9DHJVSGV7YENEQ94A",
+        "evd_01M4W50SA9TN8255DK79JM05C4"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [
+        "evd_01M4W50SA9K8AY2SB0PP0E6B71"
+      ],
+      "limitations": [],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4W50SA9DZPAC5G6MMBM85E8",
+      "claim_ids": [
+        "clm_01M4W50SA9P0ZCF8QJ13MG7HN4"
+      ],
+      "source_id": "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "Ahashverosh = Xerxes son of Darius Hystaspis; the details fit only Xerxes.",
+      "locator": "on Esth 1:1",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "keil-1873"
+    },
+    {
+      "id": "evd_01M4W50SA9PTTWGH11QY99JX1R",
+      "claim_ids": [
+        "clm_01M4W50SA9P0ZCF8QJ13MG7HN4"
+      ],
+      "source_id": "src_01M4W50S8YD8XTDVV9S590ZB67",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "Ahasuerus is the historical Xerxes.",
+      "locator": "on 1:1",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "enduring-word"
+    },
+    {
+      "id": "evd_01M4W50SA9DHJVSGV7YENEQ94A",
+      "claim_ids": [
+        "clm_01M4W50SA9GGGV926XTF60N3FT"
+      ],
+      "source_id": "src_01M4W50S9AVRVQ1RSQXKRMF4V8",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Council of the chief Persians; four years of preparation.",
+      "locator": "Hdt. 7.8, 7.20",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "herodotus"
+    },
+    {
+      "id": "evd_01M4W50SA9TN8255DK79JM05C4",
+      "claim_ids": [
+        "clm_01M4W50SA9GGGV926XTF60N3FT"
+      ],
+      "source_id": "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "stance": "supports",
+      "strength": "direct",
+      "finding": "Year 3 began 14 April 483.",
+      "locator": "Xerxes table",
+      "proposed_connection_by": "not_applicable",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "babylonian-calendar"
+    },
+    {
+      "id": "evd_01M4W50SA9K8AY2SB0PP0E6B71",
+      "claim_ids": [
+        "clm_01M4W50SA9GGGV926XTF60N3FT"
+      ],
+      "source_id": "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "The assembly of Esth 1 compared with Hdt. 7.8.",
+      "locator": "on 1:3–4",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "keil-1873"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Susa palace archaeology (Dieulafoy) not read."
+  ]
+}

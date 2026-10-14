@@ -1,0 +1,101 @@
+{
+  "event_id": "evt_01M4W50SA665JA4SX5ZWP62KF0",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "In the days of Ahasuerus, who ruled 127 provinces from India to Cush from the citadel of Susa, in his third year he made a feast for his princes and officials, displaying his wealth for 180 days, and then a seven-day feast in the palace garden for all the people of Susa; Vashti held a feast for the women. On the seventh day the king, merry with wine, ordered seven eunuchs to bring Vashti to show her beauty; she refused. Consulting the seven princes who saw the king's face, he deposed her on Memucan's advice and sent letters in every script and language that every man should rule his own house.",
+    "passage": "Esth.1.1-Esth.1.22"
+  },
+  "setting": {
+    "period": "483/482 BC (Xerxes year 3 on Parker & Dubberstein)",
+    "body": "Keil identifies Ahasuerus with Xerxes from the name (Old Persian Khshayarsha) and the empire's extent, and compares the six-month assembly with Herodotus's account of Xerxes summoning the chief Persians to consult on the Greek campaign after reconquering Egypt (Hdt. 7.8), followed by four years of preparation (7.20).",
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+      "src_01M4W50S9AVRVQ1RSQXKRMF4V8"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V26XGRRNK70YK6ZWR2NB6W",
+      "reign_id": "rgn_01M4W50S9H597M5GWGYJWYY4SE",
+      "role": "King of Persia (Ahasuerus)",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4W50SA8X1VPDD3S0NR8H86C",
+      "subject": "evt_01M4W50SA665JA4SX5ZWP62KF0",
+      "object": "rgn_01M4W50S9H597M5GWGYJWYY4SE",
+      "relation": "in_regnal_year",
+      "textual_assertion": "in the third year of his reign, he made a feast",
+      "passage": "Esth.1.3",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 3,
+      "alternative_option": null,
+      "regnal_convention": {
+        "reckoning": "accession",
+        "new_year": "nisan"
+      },
+      "precision": "regnal_year",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Ahasuerus = Xerxes I (Keil; see the claim). Year 3 began 14 April 483 on Parker & Dubberstein's table; the 180 days and the feast may run into 482."
+      ],
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN",
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ],
+      "verification": "source_checked"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4TTS0HF7XKVH1VBRM0K0TFS",
+      "role": "Susa (Shushan the citadel)",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "Ahasuerus (Achashverosh)",
+      "gloss": "Xerxes I (Old Persian Khshayarsha) — Keil; the LXX and Josephus have Artaxerxes.",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    },
+    {
+      "term": "127 provinces (medinoth)",
+      "gloss": "Administrative districts under satraps and governors, not Herodotus's twenty satrapies (Keil).",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    }
+  ],
+  "competing_reconstructions": [],
+  "commentary": [
+    {
+      "source_id": "src_01M4W50S8YD8XTDVV9S590ZB67",
+      "layer": "interpretation",
+      "paraphrase": "Guzik reads Vashti's refusal as modesty rather than rebellion.",
+      "url": "https://enduringword.com/bible-commentary/esther-1/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "The Susa palace excavations (Dieulafoy) were not read."
+  ],
+  "not_applicable": {}
+}

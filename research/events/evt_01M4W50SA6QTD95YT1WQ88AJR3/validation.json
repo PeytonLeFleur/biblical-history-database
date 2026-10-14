@@ -1,0 +1,56 @@
+{
+  "event_id": "evt_01M4W50SA6QTD95YT1WQ88AJR3",
+  "revision": 1,
+  "validated_at": "2026-10-14",
+  "checks": [
+    {
+      "name": "repository_validation",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "references_resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "summary_present",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stages_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "stage_files_complete",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "important_claims_source_checked",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "competing_positions_represented",
+      "passed": false,
+      "details": [
+        "no competing reconstructions recorded (or not_applicable reason)"
+      ]
+    }
+  ],
+  "publication_level": "preliminary",
+  "open_reviews": [
+    "rev_01M4W50SAFQGT2FFTX4JPVE022",
+    "rev_01M4W50SB6F7PY50GVHKHZ7NQJ"
+  ],
+  "research_gaps": [
+    "Persepolis \"Marduka\" tablets not read; Susa archaeology not read."
+  ],
+  "disputes": [
+    "The narrative of Esther is historical in substance."
+  ],
+  "export_eligible": true
+}

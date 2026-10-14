@@ -1,0 +1,123 @@
+{
+  "event_id": "evt_01M4W50SA6QTD95YT1WQ88AJR3",
+  "status": "complete",
+  "resume_from": null,
+  "text_summary": {
+    "layer": "text",
+    "body": "After these things, at the counsel of the king's servants, young virgins were gathered from all provinces to the house of the women in Susa under Hegai. Mordecai son of Jair, son of Shimei, son of Kish, a Benjamite, \"who had been carried away\" with Jeconiah, had raised his cousin Hadassah, that is Esther. She was taken to the palace, won Hegai's favour and, at Mordecai's instruction, did not reveal her people. After twelve months of preparation she was taken to the king in the tenth month, Tebeth, in his seventh year; he loved her above all and set the royal crown on her head, gave a feast and a remission to the provinces.",
+    "passage": "Esth.2.1-Esth.2.18"
+  },
+  "setting": {
+    "period": "Tebeth of Xerxes year 7 — from 22 December 479 BC (Parker & Dubberstein)",
+    "body": "Keil explains the four-year interval between Vashti's deposing and Esther's elevation by Xerxes's campaign against Greece (480–479). Herodotus names Xerxes's wife as Amestris, daughter of Otanes (7.61), still his wife after the return from Greece (9.108–113).",
+    "citations": [
+      "src_01M4TPW4B43MDDS6CJYXV48RHN",
+      "src_01M4VEBZ9S4F0VWRP9YEKY6Z77",
+      "src_01M4W50S9AVRVQ1RSQXKRMF4V8"
+    ]
+  },
+  "rulers": [
+    {
+      "person_id": "per_01M4V26XGRRNK70YK6ZWR2NB6W",
+      "reign_id": "rgn_01M4W50S9H597M5GWGYJWYY4SE",
+      "role": "King of Persia (Ahasuerus)",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    }
+  ],
+  "kingdoms": [
+    "kgd_01M4RSRHM0VQXGKTB562DXF9VS"
+  ],
+  "constraints": [
+    {
+      "id": "cst_01M4W50SA87MZ61NCEF2J9AEXH",
+      "subject": "evt_01M4W50SA6QTD95YT1WQ88AJR3",
+      "object": "rgn_01M4W50S9H597M5GWGYJWYY4SE",
+      "relation": "in_regnal_year",
+      "textual_assertion": "in the tenth month, which is the month Tebeth, in the seventh year of his reign",
+      "passage": "Esth.2.16",
+      "offset": null,
+      "unit": null,
+      "regnal_year": 7,
+      "alternative_option": null,
+      "regnal_convention": {
+        "reckoning": "accession",
+        "new_year": "nisan"
+      },
+      "precision": "month",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [
+        "Tebeth (month X) of Xerxes's year 7 began 22 December 479 on Parker & Dubberstein's table."
+      ],
+      "citations": [
+        "src_01M4TPW4B43MDDS6CJYXV48RHN"
+      ],
+      "verification": "source_checked"
+    },
+    {
+      "id": "cst_01M4W50SA8TP406GGZC2G65NQ5",
+      "subject": "evt_01M4W50SA6QTD95YT1WQ88AJR3",
+      "object": "evt_01M4W50SA665JA4SX5ZWP62KF0",
+      "relation": "years_later",
+      "textual_assertion": "After these things … in the seventh year",
+      "passage": "Esth.2.1-Esth.2.16",
+      "offset": {
+        "min": 3,
+        "max": 4
+      },
+      "unit": "years",
+      "regnal_year": null,
+      "alternative_option": null,
+      "regnal_convention": null,
+      "precision": "year",
+      "model_id": null,
+      "alternative_group": null,
+      "assumptions": [],
+      "citations": [],
+      "verification": "text_direct"
+    }
+  ],
+  "synchronisms": [],
+  "date_hypotheses": [],
+  "locations": [
+    {
+      "location_id": "loc_01M4TTS0HF7XKVH1VBRM0K0TFS",
+      "role": "Susa (Shushan the citadel)",
+      "hypotheses": [],
+      "confidence": "certain"
+    }
+  ],
+  "terminology": [
+    {
+      "term": "\"who had been carried away\" (2:6)",
+      "gloss": "Referring to Mordecai would make him over 120 when minister; Keil prefers that reference but loosely understood, while Clericus and Baumgarten refer it to Kish.",
+      "citations": [
+        "src_01M4VEBZ9S4F0VWRP9YEKY6Z77"
+      ]
+    },
+    {
+      "term": "Hadassah (2:7)",
+      "gloss": "\"Myrtle\".",
+      "citations": [
+        "src_01M4W50S946AV8YAVDZMQ1HP9Z"
+      ]
+    }
+  ],
+  "competing_reconstructions": [],
+  "commentary": [
+    {
+      "source_id": "src_01M4W50S946AV8YAVDZMQ1HP9Z",
+      "layer": "interpretation",
+      "paraphrase": "Guzik attributes the four-year gap to Xerxes's failed invasion of Greece and sees God's purpose in Esther's rise.",
+      "url": "https://enduringword.com/bible-commentary/esther-2/",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "open_questions": [
+    "The Persepolis tablets naming a \"Marduka\" were not read; no identification with Mordecai is made here.",
+    "How Vashti and Esther relate to Amestris is not addressed by the sources read."
+  ],
+  "not_applicable": {}
+}
