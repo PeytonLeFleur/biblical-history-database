@@ -1,0 +1,940 @@
+# Malachi's disputations with priests and people (Mal 1–4; undated, mid-fifth century BC)
+
+> **Status:** Researched — not human reviewed · research status `needs_review` · revision 1 · last reviewed: not reviewed
+> Programmatic validation is not historical verification. Classifications are machine-proposed unless marked as owner-reviewed.
+
+## Biblical references
+
+- Malachi 1:1–4:6 (narration): The delivery of the book's oracles.
+
+## Biblical account
+
+In a series of question-and-answer disputations the LORD affirms his love for Jacob against Edom, whose ruins will not be rebuilt; condemns priests who offer blind and lame animals that the governor would refuse; recalls the covenant with Levi; denounces marriage to "the daughter of a foreign god" and faithless divorce; announces his messenger and the Lord's sudden coming to his temple in refining judgment; calls the people robbers for withholding tithes; records the godly in a book of remembrance; and closes with the day that burns like a furnace, the sun of righteousness, the law of Moses and the sending of Elijah.
+
+## Historical setting
+
+**Period:** Mid-fifth century BC (after 515; Smith c. 460–445, Keil after 433)
+
+The temple is rebuilt and a governor (pechah) receives gifts (1:8). Smith dates the book between about 510 and Nehemiah's reforms, preferring the period just before them because the governor accepts gifts (cf. Neh 5:14–18) and no recent covenant is mentioned. Keil, following Vitringa, dates it after Nehemiah's first term, comparing Mal 2:11 with Neh 13:23 and Mal 3:8–10 with Neh 13:10–14. Guzik places it at or just after Nehemiah's time. [1, 2, 3]
+
+### Rulers
+
+- Artaxerxes I (Longimanus): King of Persia (on both main datings) [1, 2]
+
+## Date and chronology
+
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *model-independent*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Thiele (1983) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Albright (1945) divided-monarchy chronology*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Septuagint (Greek) dates in Daniel*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Belshazzar's years counted from the entrusting of the kingship*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 586 BC (accession-year count of Nebuchadnezzar's years)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+- **465 BC – 423 BC** — computed under *Fall of Jerusalem in 587 BC (non-accession count of Nebuchadnezzar's years in 2 Kings)*; precision: reign
+  - Earliest bound from: reign of Artaxerxes I (Longimanus) (reign start) → “offer it now to your governor”
+  - Latest bound from: reign of Artaxerxes I (Longimanus) (reign end) → “offer it now to your governor”
+
+*Computed ranges are reconstructions that depend on the named chronology model and the stated assumptions. They are not independent dates.*
+
+
+**Chronological statements:**
+
+- “You offer polluted bread on my altar … Bring the whole tithe into the storehouse” (Malachi 1:7) → `after` The rebuilt Temple completed on 3 Adar of Darius's sixth year (Ezra 6:15); assumptions: The temple and its service are functioning and the zeal of Haggai and Zechariah has faded (Smith: terminus a quo about 510 BC). [1]
+- “offer it now to your governor” (Malachi 1:8) → `within_reign` reign of Artaxerxes I (Longimanus); assumptions: Both main views (just before Nehemiah's reforms, Smith; after Nehemiah's first term, Keil) fall in the reign of Artaxerxes I; see the disputed claim. [1, 2]
+
+## Geography
+
+- Jerusalem (Jerusalem and its temple; confidence: certain)
+  - Pleiades representative point: certain [4]
+
+## Competing reconstructions
+
+- **Just before Nehemiah's reforms (c. 460–445 BC)** (J. M. P. Smith (1912), Others listed by Smith (before Ezra)): Malachi prepared the way for Nehemiah; a gift-taking governor is present and no recent covenant is invoked. [1]
+- **During or after Nehemiah's second term (after 433 BC)** (C. F. Keil (1868), following Vitringa, D. Guzik (at or just after Nehemiah's time)): The abuses match those Nehemiah found on his return (Neh 13). [2, 3]
+
+## Claims and evidence
+
+### Malachi prophesied after Nehemiah's first governorship (after 433 BC), rather than shortly before his reforms.
+
+**Classification:** Disputed (requires review) · layer: reconstruction
+
+Keil (after Vitringa) dates Malachi after Nehemiah's first term because its abuses match Neh 13; Guzik agrees broadly. Smith prefers the years just before the reforms: a governor accepts gifts, which Nehemiah refused (Neh 5:14–18), and no recent covenant is mentioned; he sets the outer limits at about 510 and 312 BC. No external evidence decides it.
+
+- *Supporting (indirect):* After the thirty-second year of Artaxerxes; Mal 2:11 ~ Neh 13:23; Mal 3:8–10 ~ Neh 13:10–14. (Introduction to Malachi) [2]
+- *Challenging (indirect):* Best taken as preparing the way for Nehemiah's reforms. (Smith, Introduction to Malachi §2) [1]
+- *Context (indirect):* At the time of Nehemiah or immediately afterwards. (on 1:1) [3]
+
+### Edom had suffered a recent devastation by Malachi's time, probably the Nabataean displacement from its heartland (before 312 BC).
+
+**Classification:** Historically plausible (machine proposed) · layer: reconstruction
+
+Smith infers a recent blow to Edom from 1:3–4 and notes that southern Judah was called Idumaea by 312 BC, the Nabataeans having displaced the Edomites (citing Diodorus 19.94–100 after Hieronymus of Cardia); the date of the displacement is unknown. Diodorus was not read directly in this unit.
+
+- *Supporting (indirect):* The Nabataean overrunning of Edom probably the disaster meant; Idumaea by 312 BC. (Smith, Introduction to Malachi §2) [1]
+
+*Limitations:* Secondary report of Diodorus; Edomite archaeology not consulted.
+
+## Related passages and events
+
+- this event → **direct reference** → pro_01M4W3HPXADGWQQFWN869F5C6R (high): Mal 3:1–5.
+- this event → **direct reference** → pro_01M4W3HPXA21DJAWAE3XNZ50QS (high): Mal 4:4–6.
+- this event → **thematic parallel** → The mixed-marriages crisis: Ezra's confession, the assembly in the rain (20/IX) and the commission (Ezra 9–10) (high): Marriage to "the daughter of a foreign god" (2:11) — the abuse of Ezra 9–10.
+- this event → **thematic parallel** → Nehemiah's return and second-term reforms (Neh 13:4–31) (high): Withheld tithes (3:8–10) and foreign marriages (2:11) — the abuses Nehemiah met on his return (Neh 13).
+- this event → **thematic parallel** → The sealed covenant to keep the law and support the temple (Neh 9:38–10:39) (medium): Tithes and the storehouse (3:10) — the pledges of Neh 10:37–39.
+- this event → **thematic parallel** → Nehemiah's first governorship: twelve years, 20th–32nd year of Artaxerxes (445–433 BC) (medium): A governor who receives gifts (1:8), unlike Nehemiah (Neh 5:14–18) — Smith's argument for a date before the reforms.
+- this event → **thematic parallel** → Matthew 11:10–14 (high): Jesus applies 3:1 and 4:5 to John the Baptist.
+- this event → **thematic parallel** → Mark 1:2 (high): Mal 3:1 cited (with Isa 40:3) under Isaiah's name.
+- this event → **thematic parallel** → Luke 1:16–17 (high): John in the spirit and power of Elijah, turning fathers' hearts.
+- this event → **thematic parallel** → Romans 9:13 (high): "Jacob I loved, but Esau I hated."
+
+## Commentary (interpretation, not historical evidence)
+
+- Guzik reads "Esau I have hated" as non-election rather than emotional hatred. [3]
+- Guzik sees two messengers in 3:1, the forerunner and Jesus. [5]
+
+## Unanswered questions and research gaps
+
+- Diodorus 19.94–100 and Edomite/Nabataean archaeology not read.
+- Hebrew/English versification difference (Hebrew 3:19–24 = English 4:1–6) not yet in the versification table.
+
+## Disputes
+
+- Malachi prophesied after Nehemiah's first governorship (after 433 BC), rather than shortly before his reforms.
+
+## Sources
+
+1. Mitchell, Hinckley G., Smith, J. M. P., Bewer, J. A.. A Critical and Exegetical Commentary on Haggai, Zechariah, Malachi and Jonah (International Critical Commentary). T. & T. Clark / Scribner, 1912. <https://archive.org/details/criticalexegetic25mitcuoft> — *scholarly commentary; verification: claim checked*
+2. Keil, C. F., Martin, James (trans.). Biblical Commentary on the Twelve Minor Prophets, vol. 2 (Clark's Foreign Theological Library). T. & T. Clark, Edinburgh, 1868 (1878 printing). <https://archive.org/details/thetwelveminorpr02keiluoft> — *scholarly commentary; verification: claim checked*
+3. Guzik, David. Malachi 1 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/malachi-1/> — *theological commentary; verification: claim checked*
+4. Pleiades contributors. Ierusalem/Hierosolyma — Pleiades place 687928. Pleiades (pleiades.stoa.org). <https://pleiades.stoa.org/places/687928> — *institutional database; verification: claim checked*
+5. Guzik, David. Malachi 3 — Enduring Word Bible Commentary. Enduring Word. <https://enduringword.com/bible-commentary/malachi-3/> — *theological commentary; verification: claim checked*

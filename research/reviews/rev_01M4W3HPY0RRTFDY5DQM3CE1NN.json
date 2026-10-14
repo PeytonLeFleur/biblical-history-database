@@ -1,0 +1,14 @@
+{
+  "id": "rev_01M4W3HPY0RRTFDY5DQM3CE1NN",
+  "record_kind": "claim",
+  "record_id": "clm_01M4W3HPXTRERBNKJ80YBCJG0N",
+  "record_revision": 1,
+  "reason": "Disputed: did Malachi prophesy after Nehemiah's first governorship (Keil) or just before his reforms (Smith)?",
+  "triggers": [
+    "disputed"
+  ],
+  "status": "open",
+  "created_at": "2026-10-14T02:23:32.800Z",
+  "decisions": [],
+  "is_fixture": false
+}

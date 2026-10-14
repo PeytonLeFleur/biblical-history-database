@@ -1,0 +1,27 @@
+{
+  "id": "job_01M4W3H5M76Z62BS532KTVFATZ",
+  "subject_kind": "chapter",
+  "subject_id": "Mal.1",
+  "book": "Mal",
+  "chapter": 1,
+  "stage": "scripture_extraction",
+  "status": "published",
+  "priority": "medium",
+  "checkpoint": {
+    "note": "Rule 01 extraction complete",
+    "resume_from": null,
+    "files": []
+  },
+  "attempts": [
+    {
+      "stage": "scripture_extraction",
+      "started": "2026-10-14T02:23:33.591Z",
+      "ended": null,
+      "outcome": null,
+      "notes": null
+    }
+  ],
+  "created_at": "2026-10-14T02:23:15.080Z",
+  "updated_at": "2026-10-14T02:23:33.591Z",
+  "is_fixture": false
+}

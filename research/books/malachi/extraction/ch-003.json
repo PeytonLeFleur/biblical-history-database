@@ -1,0 +1,222 @@
+{
+  "book": "Mal",
+  "chapter": 3,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Mal.3.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQHMBFRW0PCNQ21ZJ4"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.3.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQHMBFRW0PCNQ21ZJ4"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.3.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQHMBFRW0PCNQ21ZJ4"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.3.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQHMBFRW0PCNQ21ZJ4"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.3.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQHMBFRW0PCNQ21ZJ4"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.3.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQHMBFRW0PCNQ21ZJ4"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.3.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQH4S9CYSFG2CQCCMB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.3.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQH4S9CYSFG2CQCCMB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.3.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQH4S9CYSFG2CQCCMB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.3.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQH4S9CYSFG2CQCCMB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.3.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQH4S9CYSFG2CQCCMB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.3.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQH4S9CYSFG2CQCCMB"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.3.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQESH7MP8N1MCVE0T9"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.3.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQESH7MP8N1MCVE0T9"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.3.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQESH7MP8N1MCVE0T9"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.3.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQESH7MP8N1MCVE0T9"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.3.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQESH7MP8N1MCVE0T9"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.3.18",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQESH7MP8N1MCVE0T9"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4W3HPXQHMBFRW0PCNQ21ZJ4",
+      "title": "My messenger prepares the way; the Lord comes suddenly to his temple; refiner's fire; judgment on sorcerers and oppressors",
+      "passage": "Mal.3.1-Mal.3.6",
+      "description": "The messenger prepares the way; the Lord and messenger of the covenant comes to his temple, purifies the sons of Levi and judges the wicked; \"I, the LORD, don't change\".",
+      "record_type": "prophecy",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Isa.40.3",
+        "Matt.11.10",
+        "Mark.1.2",
+        "Luke.7.27"
+      ],
+      "research_priority": "critical",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4W3HPXQKWSTZJ6F477CV1AS"
+    },
+    {
+      "id": "cnd_01M4W3HPXQH4S9CYSFG2CQCCMB",
+      "title": "Return to me: robbing God in tithes and offerings; the storehouse and the windows of heaven",
+      "passage": "Mal.3.7-Mal.3.12",
+      "description": "From their fathers' days they have turned aside; they rob God in tithes and offerings; bring the whole tithe into the storehouse and test the LORD.",
+      "record_type": "ongoing_practice",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Neh.13.10-Neh.13.14",
+        "Neh.10.37-Neh.10.39",
+        "Num.18.21-Num.18.26"
+      ],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4W3HPXQKWSTZJ6F477CV1AS"
+    },
+    {
+      "id": "cnd_01M4W3HPXQESH7MP8N1MCVE0T9",
+      "title": "The godly speak together; the book of remembrance; a distinction between righteous and wicked",
+      "passage": "Mal.3.13-Mal.3.18",
+      "description": "Some say it is vain to serve God; those who fear the LORD speak together and a book of remembrance is written; they will be his treasured possession.",
+      "record_type": "prophecy",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "prediction",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4W3HPXQKWSTZJ6F477CV1AS"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-malachi.md"
+}

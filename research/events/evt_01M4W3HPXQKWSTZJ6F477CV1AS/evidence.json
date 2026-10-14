@@ -1,0 +1,169 @@
+{
+  "event_id": "evt_01M4W3HPXQKWSTZJ6F477CV1AS",
+  "status": "complete",
+  "resume_from": null,
+  "search_log": [
+    {
+      "date": "2026-10-13",
+      "query": "Enduring Word Malachi 1–4",
+      "engine": "web fetch",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Keil 1868, Malachi introduction and on 3:1 (local OCR)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    },
+    {
+      "date": "2026-10-13",
+      "query": "Smith 1912 (ICC), Malachi introduction and on 3:1, 4:4–6 (local OCR)",
+      "engine": "local text",
+      "useful_results": 1,
+      "notes": null
+    }
+  ],
+  "domains": {
+    "archaeology": {
+      "searched": false,
+      "not_applicable_reason": "Edomite archaeology not pursued in this unit."
+    },
+    "ancient_documents": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "scientific_academic": {
+      "searched": true,
+      "not_applicable_reason": null
+    },
+    "geology": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "astronomy": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    },
+    "news": {
+      "searched": false,
+      "not_applicable_reason": "Not relevant."
+    }
+  },
+  "claims": [
+    {
+      "id": "clm_01M4W3HPXTRERBNKJ80YBCJG0N",
+      "statement": "Malachi prophesied after Nehemiah's first governorship (after 433 BC), rather than shortly before his reforms.",
+      "layer": "reconstruction",
+      "passage": "Mal.1.8",
+      "classification": "disputed",
+      "reasoning": "Keil (after Vitringa) dates Malachi after Nehemiah's first term because its abuses match Neh 13; Guzik agrees broadly. Smith prefers the years just before the reforms: a governor accepts gifts, which Nehemiah refused (Neh 5:14–18), and no recent covenant is mentioned; he sets the outer limits at about 510 and 312 BC. No external evidence decides it.",
+      "supporting_evidence": [
+        "evd_01M4W3HPXTJCZ613RYJG0BEF0J"
+      ],
+      "counterevidence": [
+        "evd_01M4W3HPXT08REPDH6P4BYWT7N"
+      ],
+      "contextual_evidence": [
+        "evd_01M4W3HPXTYBWXFQBM6508JQ0Y"
+      ],
+      "limitations": [],
+      "reviewer_status": "requires_review",
+      "review_required": true,
+      "research_date": "2026-10-13"
+    },
+    {
+      "id": "clm_01M4W3HPXTQ7M64HT4NHX58CAJ",
+      "statement": "Edom had suffered a recent devastation by Malachi's time, probably the Nabataean displacement from its heartland (before 312 BC).",
+      "layer": "reconstruction",
+      "passage": "Mal.1.3-Mal.1.4",
+      "classification": "historically_plausible",
+      "reasoning": "Smith infers a recent blow to Edom from 1:3–4 and notes that southern Judah was called Idumaea by 312 BC, the Nabataeans having displaced the Edomites (citing Diodorus 19.94–100 after Hieronymus of Cardia); the date of the displacement is unknown. Diodorus was not read directly in this unit.",
+      "supporting_evidence": [
+        "evd_01M4W3HPXTP1Z2EFB9CD87RVS6"
+      ],
+      "counterevidence": [],
+      "contextual_evidence": [],
+      "limitations": [
+        "Secondary report of Diodorus; Edomite archaeology not consulted."
+      ],
+      "reviewer_status": "machine_proposed",
+      "review_required": false,
+      "research_date": "2026-10-13"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "evd_01M4W3HPXTJCZ613RYJG0BEF0J",
+      "claim_ids": [
+        "clm_01M4W3HPXTRERBNKJ80YBCJG0N"
+      ],
+      "source_id": "src_01M4VJCX9WFDDMH4453WKV1J34",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "After the thirty-second year of Artaxerxes; Mal 2:11 ~ Neh 13:23; Mal 3:8–10 ~ Neh 13:10–14.",
+      "locator": "Introduction to Malachi",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "keil-1868"
+    },
+    {
+      "id": "evd_01M4W3HPXT08REPDH6P4BYWT7N",
+      "claim_ids": [
+        "clm_01M4W3HPXTRERBNKJ80YBCJG0N"
+      ],
+      "source_id": "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+      "stance": "challenges",
+      "strength": "indirect",
+      "finding": "Best taken as preparing the way for Nehemiah's reforms.",
+      "locator": "Smith, Introduction to Malachi §2",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "smith-1912"
+    },
+    {
+      "id": "evd_01M4W3HPXTYBWXFQBM6508JQ0Y",
+      "claim_ids": [
+        "clm_01M4W3HPXTRERBNKJ80YBCJG0N"
+      ],
+      "source_id": "src_01M4W3HPWE1XR92CP420083FDA",
+      "stance": "contextual",
+      "strength": "indirect",
+      "finding": "At the time of Nehemiah or immediately afterwards.",
+      "locator": "on 1:1",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "enduring-word"
+    },
+    {
+      "id": "evd_01M4W3HPXTP1Z2EFB9CD87RVS6",
+      "claim_ids": [
+        "clm_01M4W3HPXTQ7M64HT4NHX58CAJ"
+      ],
+      "source_id": "src_01M4VJCX9RYPE6JSCDQZMHT0NT",
+      "stance": "supports",
+      "strength": "indirect",
+      "finding": "The Nabataean overrunning of Edom probably the disaster meant; Idumaea by 312 BC.",
+      "locator": "Smith, Introduction to Malachi §2",
+      "proposed_connection_by": "author",
+      "competing_explanations": [],
+      "criticism": [],
+      "limitations": [],
+      "independent_line": "smith-1912"
+    }
+  ],
+  "artifacts": [],
+  "sites": [],
+  "documents": [],
+  "research_gaps": [
+    "Diodorus 19.94–100 and Edomite/Nabataean archaeology not read.",
+    "Hebrew/English versification difference (Hebrew 3:19–24 = English 4:1–6) not yet in the versification table."
+  ]
+}

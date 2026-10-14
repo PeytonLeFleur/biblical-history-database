@@ -1,0 +1,16 @@
+{
+  "kind": "person",
+  "id": "per_01M4W3HPX4QKDQ0RYQW1CYDW4R",
+  "slug": "malachi-prophet",
+  "is_fixture": false,
+  "revision": 1,
+  "citations": [
+    "src_01M4VJCX9WFDDMH4453WKV1J34",
+    "src_01M4VJCX9RYPE6JSCDQZMHT0NT"
+  ],
+  "notes": null,
+  "canonical_name": "Malachi",
+  "aliases": [],
+  "description": "The prophet to whom the last book of the Twelve is attributed (Mal 1:1). Whether \"Malachi\" (\"my messenger\") is a personal name (Keil) or an editorial title drawn from 3:1 for an anonymous book (Smith) is disputed; the Targum identifies the author with Ezra.",
+  "kingdom_id": "kgd_01M4RPJVYG2NX5N8C0G4T38ZXK"
+}

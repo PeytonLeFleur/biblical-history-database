@@ -1,0 +1,194 @@
+{
+  "book": "Mal",
+  "chapter": 2,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Mal.2.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQPQ8S8VEJVMV232K0"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.2.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQPQ8S8VEJVMV232K0"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.2.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQPQ8S8VEJVMV232K0"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.2.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQPQ8S8VEJVMV232K0"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.2.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQPQ8S8VEJVMV232K0"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.2.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQPQ8S8VEJVMV232K0"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.2.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQPQ8S8VEJVMV232K0"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.2.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQPQ8S8VEJVMV232K0"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.2.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQPQ8S8VEJVMV232K0"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.2.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQFQHFVWKTEP0M45A2"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.2.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQFQHFVWKTEP0M45A2"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.2.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQFQHFVWKTEP0M45A2"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.2.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQFQHFVWKTEP0M45A2"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.2.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQFQHFVWKTEP0M45A2"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.2.15",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQFQHFVWKTEP0M45A2"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.2.16",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQFQHFVWKTEP0M45A2"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.2.17",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQFQHFVWKTEP0M45A2"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4W3HPXQPQ8S8VEJVMV232K0",
+      "title": "Warning to the priests; the covenant with Levi; priests as messengers of the LORD",
+      "passage": "Mal.2.1-Mal.2.9",
+      "description": "A curse on the priests who do not give glory; the covenant of life and peace with Levi; the priest's lips should keep knowledge, for he is the messenger of the LORD of Armies; they have corrupted the covenant.",
+      "record_type": "ongoing_practice",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Num.25.10-Num.25.13",
+        "Deut.33.8-Deut.33.11",
+        "Neh.13.29"
+      ],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4W3HPXQKWSTZJ6F477CV1AS"
+    },
+    {
+      "id": "cnd_01M4W3HPXQFQHFVWKTEP0M45A2",
+      "title": "Judah has married the daughter of a foreign god; the LORD hates divorce; \"where is the God of justice?\"",
+      "passage": "Mal.2.10-Mal.2.17",
+      "description": "Faithlessness among brothers; Judah has profaned the LORD's holiness by marrying the daughter of a foreign god; men have dealt treacherously with the wife of their youth; the people weary the LORD by asking where the God of justice is.",
+      "record_type": "ongoing_practice",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Ezra.9.1-Ezra.9.2",
+        "Neh.13.23-Neh.13.27",
+        "Gen.2.24"
+      ],
+      "research_priority": "high",
+      "ambiguities": [],
+      "job_id": null,
+      "event_id": "evt_01M4W3HPXQKWSTZJ6F477CV1AS"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-malachi.md"
+}

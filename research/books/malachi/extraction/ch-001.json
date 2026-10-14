@@ -1,0 +1,189 @@
+{
+  "book": "Mal",
+  "chapter": 1,
+  "status": "complete",
+  "resume_from": null,
+  "text_edition": "WEB (eBible.org engwebp, unmodified)",
+  "verse_coverage": [
+    {
+      "ref": "Mal.1.1",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQDZSVJ1X397D0HZBR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.1.2",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQDZSVJ1X397D0HZBR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.1.3",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQDZSVJ1X397D0HZBR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.1.4",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQDZSVJ1X397D0HZBR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.1.5",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQDZSVJ1X397D0HZBR"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.1.6",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQAQ0VVQ2T2V2Q6WRQ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.1.7",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQAQ0VVQ2T2V2Q6WRQ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.1.8",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQAQ0VVQ2T2V2Q6WRQ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.1.9",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQAQ0VVQ2T2V2Q6WRQ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.1.10",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQAQ0VVQ2T2V2Q6WRQ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.1.11",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQAQ0VVQ2T2V2Q6WRQ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.1.12",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQAQ0VVQ2T2V2Q6WRQ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.1.13",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQAQ0VVQ2T2V2Q6WRQ"
+      ],
+      "notes": null
+    },
+    {
+      "ref": "Mal.1.14",
+      "status": "reviewed_with_candidate",
+      "candidate_ids": [
+        "cnd_01M4W3HPXQAQ0VVQ2T2V2Q6WRQ"
+      ],
+      "notes": null
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cnd_01M4W3HPXQDZSVJ1X397D0HZBR",
+      "title": "The LORD's love: Jacob loved, Esau hated; Edom's ruins will not be rebuilt",
+      "passage": "Mal.1.1-Mal.1.5",
+      "description": "The burden of the word of the LORD to Israel by Malachi; the LORD has loved Jacob and laid Esau's mountains waste; Edom will rebuild but he will throw down.",
+      "record_type": "event",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "reference_to_other_event",
+      "event_categories": [
+        "political"
+      ],
+      "parent_candidate_id": null,
+      "participants": [
+        {
+          "name_as_written": "Malachi",
+          "matched_entity_id": "per_01M4W3HPX4QKDQ0RYQW1CYDW4R",
+          "proposed_new_entity": false
+        }
+      ],
+      "locations": [
+        {
+          "name_as_written": "Esau/Edom",
+          "matched_entity_id": "kgd_01M4W3HPXANCYNS0R0A2GDK4G6",
+          "proposed_new_entity": false
+        }
+      ],
+      "temporal_statements": [],
+      "related_passages": [
+        "Gen.25.23",
+        "Rom.9.13",
+        "Obad.1.1-Obad.1.21",
+        "Ezek.35.1-Ezek.35.15"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "The disaster to Edom is not identified (Smith: probably the Nabataean displacement, before 312 BC)."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4W3HPXQKWSTZJ6F477CV1AS"
+    },
+    {
+      "id": "cnd_01M4W3HPXQAQ0VVQ2T2V2Q6WRQ",
+      "title": "Priests despise the LORD's name: blind, lame and sick sacrifices; \"offer it to your governor\"; a pure offering among the nations",
+      "passage": "Mal.1.6-Mal.1.14",
+      "description": "The priests offer polluted food and blemished animals that the governor would not accept; the LORD's name will be great among the nations, where incense and a pure offering are offered; the cheat who vows a male and sacrifices a blemished one is cursed.",
+      "record_type": "ongoing_practice",
+      "literary_classification": "prophetic_oracle",
+      "narrative_mode": "narrated_occurrence",
+      "event_categories": [],
+      "parent_candidate_id": null,
+      "participants": [],
+      "locations": [],
+      "temporal_statements": [],
+      "related_passages": [
+        "Lev.22.17-Lev.22.25",
+        "Deut.15.21"
+      ],
+      "research_priority": "high",
+      "ambiguities": [
+        "The governor (pechah, 1:8) is unnamed.",
+        "Whether 1:11 describes present worship among the nations or a future one."
+      ],
+      "job_id": null,
+      "event_id": "evt_01M4W3HPXQKWSTZJ6F477CV1AS"
+    }
+  ],
+  "session_log": "research/logs/2026-10-13-malachi.md"
+}
