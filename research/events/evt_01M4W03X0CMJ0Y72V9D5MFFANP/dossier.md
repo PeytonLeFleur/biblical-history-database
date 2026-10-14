@@ -15,7 +15,7 @@ Chapter 9 announces the LORD's word against Hadrach, Damascus, Hamath, Tyre, Sid
 
 **Period:** Disputed: after 518 BC (traditional), the Greek period (Mitchell), or before the exile (older critics)
 
-Keil assigns chs. 9–14 to Zechariah after Darius's fourth year and rejects both pre-exilic and late dates. Mitchell assigns 9:1–10 to 333 BC, 9:11–11:3 to the early Ptolemies, and 11:4–17 with 13:7–9 to a later author under Ptolemy III. Guzik reports that many place the chapters in Zechariah's old age. [1, 2, 3]
+Keil assigns chs. 9–14 to Zechariah after Darius's fourth year and rejects both pre-exilic and late dates. Mitchell assigns 9:1–10 to 333 BC, 9:11–11:3 to the reign of Ptolemy III (247–222), 11:4–17 with 13:7–9 to a third writer soon after the battle of Raphia (217), and 12:1–13:6 with ch. 14 to a fourth, apocalyptic writer about the same time. Guzik reports that many place the chapters in Zechariah's old age. [1, 2, 3]
 
 ### Rulers
 
@@ -888,7 +888,7 @@ Keil assigns chs. 9–14 to Zechariah after Darius's fourth year and rejects bot
 
 **Classification:** Disputed (requires review) · layer: reconstruction
 
-Keil defends Zechariah's authorship from the post-exilic setting and tradition. Mitchell assigns 9:1–10 to 333 BC (Tyre not yet taken; 9:8 reflecting Alexander's sparing of Jerusalem), 9:11–11:3 to the early Ptolemies and 11:4–17 to a later author; older critics (answered by Keil) proposed pre-exilic dates. No external evidence decides it.
+Keil defends Zechariah's authorship from the post-exilic setting and tradition. Mitchell assigns 9:1–10 to 333 BC (Tyre not yet taken; 9:8 reflecting Alexander's sparing of Jerusalem), 9:11–11:3 to the reign of Ptolemy III (247–222) and 11:4–17 to another writer soon after Raphia (217); older critics (answered by Keil) proposed pre-exilic dates. No external evidence decides it.
 
 - *Supporting (indirect):* Chs. 9–14 are Zechariah's last two oracles, later than ch. 7. (Introduction to Zechariah) [1]
 - *Challenging (indirect):* 9:1–10 written in 333; the rest in the Ptolemaic period by different authors. (Introduction, "The authorship of chapters ix–xiv") [2]
